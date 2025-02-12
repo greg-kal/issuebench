@@ -2,4 +2,8 @@
 .ipynb_checkpoints
 .env
 
+prompts_sample.csv
+prompts_full.csv
+upload_to_huggingface.ipynb
+
 /env

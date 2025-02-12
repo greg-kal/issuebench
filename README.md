@@ -16,7 +16,6 @@
 **Contact**: paul.rottger@unibocconi.it
 
 
-
 ## Repo Structure
 
 ```
@@ -26,8 +25,10 @@
 │   ├── 3_writing_assistance_filtering  # filtering prompts for writing assistance
 │   ├── 4_extracting_issues             # clustering prompts to extract issues
 │   └── 5_extracting_templates          # extracting templates from prompts
+│
 ├── 2_final_dataset
 │   └── prompt_ingredients              # issues and templates for IssueBench
+│
 └── 3_experiments
     ├── 1_stance_classifier_evaluation  # evaluating stance classifiers
     ├── 2_inference                     # scripts to collect results on IssueBench
@@ -61,6 +62,11 @@ In our paper, we tested all 212 issues in 3 framing versions combined with a sub
 You can easily adapt IssueBench to include new issues or templates. 
 Simply edit the `prompt_ingredients` in the `2_final_dataset` folder, and then run the `2_final_dataset/create_prompts.ipynb` script to generate new prompts.
 
+## License Information
+
+The IssueBench dataset is licensed under CC-BY-4.0 license.
+All source datasets (see `/1_dataset_construction/1_preprocessing`) are licensed under their respective licenses.
+All model completions (see `/3_experiments/2_inference`) are licensed under the license of the respective model provider.
 
 ## Citation Information
 

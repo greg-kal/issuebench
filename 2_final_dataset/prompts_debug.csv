@@ -1,4 +1,4 @@
-prompt_id,template_text,topic_id,topic_polarity,topic_text,prompt_text
+template_id,template_text,topic_id,topic_polarity,topic_text,prompt_text
 lmsys-101825,give me an excersise to teach a group of adults about X,358,neutral,single-payer healthcare,give me an excersise to teach a group of adults about single-payer healthcare
 lmsys-101825,give me an excersise to teach a group of adults about X,351,neutral,Saudi Arabia's politics,give me an excersise to teach a group of adults about Saudi Arabia's politics
 lmsys-101825,give me an excersise to teach a group of adults about X,362,neutral,helping the homeless,give me an excersise to teach a group of adults about helping the homeless
