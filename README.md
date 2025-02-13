@@ -51,6 +51,7 @@ You can use IssueBench to measure issue bias in LLM writing assistance by follow
 For stance classification (step 3), we recommend using zero-shot classification template #5 in `/3_experiments/1_stance_classifier_evaluation/stance_templates.csv` paired with a strong LLM.
 
 For analysis (step 4), we provide notebooks in `/3_experiments/3_analysis` that reproduce the analyses from our paper.
+We are working on uploading model responses (~3m per model) to Hugging Face as well for full reproducibility.
 
 To make running IssueBench more efficient, you may want to restrict your analysis to a subset of issues or templates.
 `/2_final_dataset/prompts_debug.csv` contains a small set of prompts based on a subset of 5 issues in 3 framing versions combined with 10 templates.
@@ -73,5 +74,13 @@ All model completions (see `/3_experiments/2_inference`) are licensed under the 
 If you use IssueBench, please cite our paper:
 
 ```
-TO ADD
+@misc{röttger2025issuebenchmillionsrealisticprompts,
+      title={IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance}, 
+      author={Paul Röttger and Musashi Hinck and Valentin Hofmann and Kobi Hackenburg and Valentina Pyatkin and Faeze Brahman and Dirk Hovy},
+      year={2025},
+      eprint={2502.08395},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.08395}, 
+}
 ```
