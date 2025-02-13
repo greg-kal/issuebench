@@ -1,6 +1,6 @@
 # IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance
 
-<a href=""><img src="https://img.shields.io/badge/📝-Preprint-b31b1b"></a>
+<a href="https://arxiv.org/abs/2502.08395"><img src="https://img.shields.io/badge/📝-Preprint-b31b1b"></a>
 <a href="https://huggingface.co/datasets/Paul/issuebench"><img src="https://img.shields.io/badge/🤗-Data-yellow"></a>
 
 
