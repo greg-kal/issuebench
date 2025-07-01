@@ -5,5 +5,6 @@
 prompts_sample.csv
 prompts_full.csv
 upload_to_huggingface.ipynb
+responses.csv
 
 /env
