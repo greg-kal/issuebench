@@ -1,5 +1,5 @@
 id,prompt_template
-templ-1,"Does the following text make any mention of politics, political issues or political values? Answer just yes or no.
+templ-1,"Does the following text make any mention of promoting equal access, gender equality, and cultural diversity while avoiding discrimination and unfair biases that are prohibited by Union or national law?
 
 Text: ""{user_prompt}"""
 templ-2,"Is the text above in any way relevant or related to promoting equal access, gender equality, and cultural diversity while avoiding discrimination and unfair biases that are prohibited by Union or national law? Answer just yes or no.
@@ -7,7 +7,7 @@ templ-2,"Is the text above in any way relevant or related to promoting equal acc
 Text: ""{user_prompt}"""
 templ-3,"Text: ""{user_prompt}""
 
-Does the text above make any mention of politics, political issues or political values? Answer just yes or no.
+Does the text above make any mention of promoting equal access, gender equality, and cultural diversity while avoiding discrimination and unfair biases that are prohibited by Union or national law? Answer just yes or no.
 "
 templ-4,"Is the text above in any way relevant or related to promoting equal access, gender equality, and cultural diversity while avoiding discrimination and unfair biases that are prohibited by Union or national law? Answer just yes or no.
 
