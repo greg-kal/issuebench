@@ -50,6 +50,7 @@ You can use IssueBench to measure issue bias in LLM writing assistance by follow
 4. Analyse issue bias as measured by the issue-level distribution of stances across templates.
 
 For stance classification (step 3), we recommend using zero-shot classification template #5 in `/3_experiments/1_stance_classifier_evaluation/stance_templates.csv` paired with a strong LLM.
+## GK NOTE: we would need to rewrite this for multi-schot classification with CoT LLMS
 
 For analysis (step 4), we provide notebooks in `/3_experiments/3_analysis` that reproduce the analyses from our paper.
 The model responses we collected for our paper (~3m per model) are available on Hugging Face [here](https://huggingface.co/datasets/musashihinck/IssueBench_Completions).
