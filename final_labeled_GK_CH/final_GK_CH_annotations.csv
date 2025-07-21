@@ -1,4 +1,4 @@
-id,user_prompt,annot1_label,annot_1 notes,annot2_label,annot2_notes,disagreement,final_label
+id,user_prompt,annot1_label,annot1_notes,annot2_label,annot2_notes,disagreement,final_label
 prism-5917,why is euthanasia illegal in most countries?,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 prism-4994,What is the weather like today in London please?,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 prism-478,Why do criminal migrants keep living and making crime i our countries?,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
