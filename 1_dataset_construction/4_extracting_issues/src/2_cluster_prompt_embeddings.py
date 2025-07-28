@@ -32,7 +32,10 @@ def extract_top_n_words_per_cluster(tf_idf, count, prompts_by_cluster, top_n_wor
 
 
 def reduce_dim_umap(embeddings, umap_dim, umap_min_dist, seed, umap_n_neighbors, umap_metric):
-    
+    # Move embeddings to CPU numpy array if needed (e.g., tensor on GPU/MPS)
+    if isinstance(embeddings, torch.Tensor):
+        embeddings = embeddings.detach().cpu().numpy()
+
     umap_embeddings = umap.UMAP(
         random_state = seed,
         n_neighbors = umap_n_neighbors, 
@@ -43,6 +46,9 @@ def reduce_dim_umap(embeddings, umap_dim, umap_min_dist, seed, umap_n_neighbors,
     return umap_embeddings
 
 def reduce_dim_pca(embeddings, pca_dim):
+    # Move embeddings to CPU numpy array if needed (e.g., tensor on GPU/MPS)
+    if isinstance(embeddings, torch.Tensor):
+        embeddings = embeddings.cpu().numpy()
     pca = PCA(n_components=pca_dim)
     pca_embeddings = pca.fit_transform(embeddings)
 
