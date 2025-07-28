@@ -1,12 +1,13 @@
-import openai
-from openai import OpenAI
+# import openai
+# from openai import OpenAI
+import subprocess
 
 import fire
 import time
 import pandas as pd
 
 from retrying import retry
-from decouple import config
+# from decouple import config
 from tqdm import tqdm
 from tqdm.contrib.concurrent import thread_map
 
@@ -17,9 +18,9 @@ class GPTWrapper:
 
     def __init__(self, gen_model):
         self.model_name = gen_model
-        self.client = OpenAI(
-            api_key=config('OPENAI_API_KEY'), # reads from a file called ".env" in root directory of repo
-        )
+        # self.client = OpenAI(
+        #     api_key=config('OPENAI_API_KEY'), # reads from a file called ".env" in root directory of repo
+        # )
 
     @retry(wait_exponential_multiplier=1000, wait_exponential_max=10000) # 2^x * 1000 milliseconds between each retry, up to 10 seconds, then 10 seconds afterwards
     def name_cluster(self, top_prompts, random_prompts, top_words):
@@ -31,24 +32,31 @@ class GPTWrapper:
         Remember to use specific and distinct nouns or noun phrases to describe the cluster. Do not enumerate but rather separate the nouns or noun phrases by commas in one row. \n\n\
         Nouns:"
 
-        input = [{"role": "system", "content": ""},
-                 {"role": "user", "content": prompt_template.format(str(top_prompts), str(top_words))}]
-
-        try:
-            response = self.client.chat.completions.create(model = self.model_name,
-                messages = input,
-                temperature = 0,
-                max_tokens = 256,
-                top_p = 1,
-                frequency_penalty = 0,
-                presence_penalty = 0,
-                )
-
-            return response.choices[0].message.content
-        
-        except openai.OpenAIError as e:
-            print(f"OpenAIError: {e}. Retrying with exponential backoff.")
-            raise e
+        # input = [{"role": "system", "content": ""},
+        #          {"role": "user", "content": prompt_template.format(str(top_prompts), str(top_words))}]
+        # try:
+        #     response = self.client.chat.completions.create(model = self.model_name,
+        #         messages = input,
+        #         temperature = 0,
+        #         max_tokens = 256,
+        #         top_p = 1,
+        #         frequency_penalty = 0,
+        #         presence_penalty = 0,
+        #         )
+        #     return response.choices[0].message.content
+        # 
+        # except openai.OpenAIError as e:
+        #     print(f"OpenAIError: {e}. Retrying with exponential backoff.")
+        #     raise e
+        # Generate completion with Ollama CLI
+        result = subprocess.run(
+            ["ollama", "generate", self.model_name, prompt_template],
+            capture_output=True,
+            text=True
+        )
+        if result.returncode != 0:
+            raise Exception(f"Ollama generation error: {result.stderr}")
+        return result.stdout.strip()
     
     def name_clusters_in_parallel(self, top_prompts, random_prompts, top_words, max_workers):
         completions = thread_map(self.name_cluster, top_prompts, random_prompts, top_words, max_workers=max_workers)
