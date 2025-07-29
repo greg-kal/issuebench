@@ -115,7 +115,7 @@ def main(gen_model: str = "llama3.1:70b",
     cluster_df["description_model"] = gen_model
 
     # reorder columns and drop unnecessary ones
-    cluster_df = cluster_df[["cluster_id", "cluster_size", "gpt_description",
+    cluster_df = cluster_df[["cluster_id", "cluster_size", #"gpt_description",
                              "dominated_by", "prop_wildchat", "prop_lmsys", "prop_sharegpt", "prop_hhonline", "prop_prism",
                              "top_words", "top_prompts", "random_prompts", "description_model"]]
 
