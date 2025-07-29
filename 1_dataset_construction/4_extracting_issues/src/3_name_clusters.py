@@ -60,7 +60,7 @@ class GPTWrapper:
             OLLAMA_URL,
             json={
                 "model": self.model_name,
-                "prompt": prompt_template,
+                "prompt": prompt_template.format(str(top_prompts), str(top_words)),
                 "stream": False
             }
         )
