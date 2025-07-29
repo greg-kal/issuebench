@@ -8,3 +8,4 @@ upload_to_huggingface.ipynb
 responses.csv
 
 /env1_dataset_construction/1_preprocessing/clean/all_clean_with_prompts.csv
+cache/models--sentence-transformers--all-mpnet-base-v2/
