@@ -5,6 +5,10 @@ import subprocess
 import fire
 import time
 import pandas as pd
+import requests
+
+# instead of openai
+OLLAMA_URL = "http://localhost:11434/api/generate"
 
 from retrying import retry
 # from decouple import config
@@ -32,6 +36,7 @@ class GPTWrapper:
         Remember to use specific and distinct nouns or noun phrases to describe the cluster. Do not enumerate but rather separate the nouns or noun phrases by commas in one row. \n\n\
         Nouns:"
 
+        # BEGIN OG CODE
         # input = [{"role": "system", "content": ""},
         #          {"role": "user", "content": prompt_template.format(str(top_prompts), str(top_words))}]
         # try:
@@ -48,15 +53,22 @@ class GPTWrapper:
         # except openai.OpenAIError as e:
         #     print(f"OpenAIError: {e}. Retrying with exponential backoff.")
         #     raise e
-        # Generate completion with Ollama CLI
-        result = subprocess.run(
-            ["ollama", "generate", self.model_name, prompt_template],
-            capture_output=True,
-            text=True
+        # END OG CODE
+
+        # generate completion via Ollama
+        response = requests.post(
+            OLLAMA_URL,
+            json={
+                "model": self.model_name,
+                "prompt": prompt_template,
+                "stream": False
+            }
         )
-        if result.returncode != 0:
-            raise Exception(f"Ollama generation error: {result.stderr}")
-        return result.stdout.strip()
+        if response.status_code != 200:
+            raise Exception(f"Ollama HTTP error {response.status_code}: {response.text}")
+        data = response.json()
+        # The API returns the generated text in the "response" field
+        return data.get("response", "").strip()
     
     def name_clusters_in_parallel(self, top_prompts, random_prompts, top_words, max_workers):
         completions = thread_map(self.name_cluster, top_prompts, random_prompts, top_words, max_workers=max_workers)
@@ -72,7 +84,12 @@ def clean_prompts(prompts):
     return prompts
 
 
-def main(gen_model: str, input_path: str, output_path: str, num_samples: int = 0, max_workers: int = 1, seed: int = 123):
+def main(gen_model: str = "llama3.1:70b",
+         input_path: str = "all_clean_filtered_clusteroverview.csv",
+         output_path: str = "all_clean_filtered_clusteroverview_named.csv",
+         num_samples: int = 0,
+         max_workers: int = 10,
+         seed: int = 123):
     
     # load csv
     cluster_df = pd.read_csv(input_path)
@@ -85,14 +102,14 @@ def main(gen_model: str, input_path: str, output_path: str, num_samples: int = 0
 
     # initialize GPTWrapper
     gpt = GPTWrapper(gen_model)
-    print(f"Initialized OpenAI model: {gen_model}")
+    print(f"Initialized Llama model {gen_model} from Ollama")
 
     # minimal preprocessing of top and random prompts to avoid API errors
     cluster_df["top_prompts"] = clean_prompts(cluster_df["top_prompts"])
     cluster_df["random_prompts"] = clean_prompts(cluster_df["random_prompts"])
 
     # write gpt completion to new column
-    cluster_df["gpt_description"] = gpt.name_clusters_in_parallel(cluster_df.top_prompts, cluster_df.random_prompts, cluster_df.top_words, max_workers=max_workers)
+    cluster_df["llama_description"] = gpt.name_clusters_in_parallel(cluster_df.top_prompts, cluster_df.random_prompts, cluster_df.top_words, max_workers=max_workers)
 
     # write model name to column
     cluster_df["description_model"] = gen_model
