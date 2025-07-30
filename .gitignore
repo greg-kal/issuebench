@@ -9,4 +9,4 @@ responses.csv
 
 /env1_dataset_construction/1_preprocessing/clean/all_clean_with_prompts.csv
 cache
-/Users/greg/Desktop/newIB/issuebench/1_dataset_construction/2_relevance_filtering/eval_prompts/408k_eval_prompts.csv
+/1_dataset_construction/2_relevance_filtering/eval_prompts/408k_eval_prompts.csv
