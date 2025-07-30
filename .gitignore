@@ -10,3 +10,5 @@ responses.csv
 /env1_dataset_construction/1_preprocessing/clean/all_clean_with_prompts.csv
 cache
 /1_dataset_construction/2_relevance_filtering/eval_prompts/408k_eval_prompts.csv
+
+/1_dataset_construction/2_relevance_filtering/eval_prompts/total_completions_llama3.1-70b.csv
