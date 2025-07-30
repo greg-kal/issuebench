@@ -76,7 +76,7 @@ $PYTHON "$SCRIPT_PATH" \
     --umap_n_neighbors 15 \
     --umap_metric "cosine" \
     --pca_dim 20 \
-    --hdb_min_cluster_size 15 \
+    --hdb_min_cluster_size 3 \
     --hdb_min_samples None \
     --hdb_metric "euclidean" \
     --hdb_cluster_selection_method "leaf" \
