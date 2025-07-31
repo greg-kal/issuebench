@@ -61,8 +61,8 @@ fi
 DATASET="all_clean_filtered_llama3.1-70b"
 PROMPTS_INPUT="$BASE_DIR/${DATASET}.csv"
 EMBEDDINGS_INPUT="$BASE_DIR/${DATASET}_embeddings.pt"
-OUTPUT_PROMPTS="$BASE_DIR/${DATASET}_clusterdetail.csv"
-OUTPUT_CLUSTERS="$BASE_DIR/${DATASET}_clusteroverview.csv"
+OUTPUT_PROMPTS="$BASE_DIR/${DATASET}_clusterdetail_min15.csv"
+OUTPUT_CLUSTERS="$BASE_DIR/${DATASET}_clusteroverview_min15.csv"
 
 # Execute clustering
 $PYTHON "$SCRIPT_PATH" \
@@ -78,7 +78,7 @@ $PYTHON "$SCRIPT_PATH" \
     --umap_n_neighbors 15 \
     --umap_metric "cosine" \
     --pca_dim 20 \
-    --hdb_min_cluster_size 3 \
+    --hdb_min_cluster_size 15 \
     --hdb_min_samples None \
     --hdb_metric "euclidean" \
     --hdb_cluster_selection_method "leaf" \
