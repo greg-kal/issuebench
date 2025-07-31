@@ -50,13 +50,15 @@ PYTHON="$ENV_DIR/bin/python"
 if [ -x "$PYTHON" ]; then
   echo "Using Python from virtualenv: $PYTHON"
 else
-  echo "Error: Virtualenv python not found at $PYTHON"
-  echo "Please activate your project's environment or install dependencies (e.g., umap-learn)."
-  exit 1
+  PYTHON=python
+  echo "Virtualenv python not found, using system python"
+  # echo "Error: Virtualenv python not found at $PYTHON"
+  # echo "Please activate your project's environment or install dependencies (e.g., umap-learn)."
+  # exit 1
 fi
 
 # Dataset settings
-DATASET="all_clean_filtered"
+DATASET="all_clean_filtered_llama3.1-70b"
 PROMPTS_INPUT="$BASE_DIR/${DATASET}.csv"
 EMBEDDINGS_INPUT="$BASE_DIR/${DATASET}_embeddings.pt"
 OUTPUT_PROMPTS="$BASE_DIR/${DATASET}_clusterdetail.csv"

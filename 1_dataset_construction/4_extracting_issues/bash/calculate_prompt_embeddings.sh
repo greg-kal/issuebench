@@ -23,7 +23,7 @@ else
 fi
 
 # Point at the all_clean_filtered.csv file
-INPUT_CSV="$BASE_DIR/all_clean_filtered.csv"
+INPUT_CSV="$BASE_DIR/all_clean_filtered_llama3.1-70b.csv"
 OUTPUT_PT="$BASE_DIR/all_clean_filtered_embeddings.pt"
 
 $PYTHON "$SCRIPT_PATH" \
