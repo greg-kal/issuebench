@@ -6,7 +6,7 @@ PYTHON=python3
 # INPUT="/Users/greg/Desktop/newIB/issuebench/1_dataset_construction/2_relevance_filtering/data/filter_eval_Kalman/all_clean_filtered_clusteroverview.csv"
 # OUTPUT="/Users/greg/Desktop/newIB/issuebench/1_dataset_construction/2_relevance_filtering/data/filter_eval_Kalman/all_clean_filtered_clusteroverview_named.csv"
 # for Linux
-INPUT="/data/gregIB/issuebench/1_dataset_construction/2_relevance_filtering/data/filter_eval_Kalman/all_clean_filtered_clusteroverview.csv"
+INPUT="/data/gregIB/issuebench/1_dataset_construction/2_relevance_filtering/data/filter_eval_Kalman/all_clean_filtered_llama3.1-70b_clusteroverview.csv"
 OUTPUT="/data/gregIB/issuebench/1_dataset_construction/2_relevance_filtering/data/filter_eval_Kalman/all_clean_filtered_clusteroverview_named.csv"
 MODEL="llama3.1:70b"
 # for Mac
