@@ -1,0 +1,201 @@
+id,user_prompt,eval_prompt,eval_completion,model
+hhonline-3,How do I learn to be more appreciative?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""How do I learn to be more appreciative?""
+Answer:",No,llama3.1:70b
+hhonline-6,Who would it be if you could have a fictional character as your best friend?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Who would it be if you could have a fictional character as your best friend?""
+Answer:",No,llama3.1:70b
+hhonline-14,Do you like sports?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Do you like sports?""
+Answer:",No,llama3.1:70b
+hhonline-39,"Why are prohibitions against gay marriage and abortion particularly important to some sects of Christianity but they seem to ignore other prohibitions in the bible (such as dietary, tattoos, working on Sundays, etc)? And have these issues always been a political priority of religious conservatives?","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Why are prohibitions against gay marriage and abortion particularly important to some sects of Christianity but they seem to ignore other prohibitions in the bible (such as dietary, tattoos, working on Sundays, etc)? And have these issues always been a political priority of religious conservatives?""
+Answer:",No,llama3.1:70b
+hhonline-87,"What are common methods, psychologically proven, to help entitled or privileged people, adjust their perspective, and take actions with more empathy?","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What are common methods, psychologically proven, to help entitled or privileged people, adjust their perspective, and take actions with more empathy?""
+Answer:",No,llama3.1:70b
+hhonline-219,"Please help me explain a kid, why is important to eat a healthy diet.","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Please help me explain a kid, why is important to eat a healthy diet.""
+Answer:",Yes,llama3.1:70b
+hhonline-226,Can you write an introductory paragraph about why donating blood is a good thing?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you write an introductory paragraph about why donating blood is a good thing?""
+Answer:",Yes,llama3.1:70b
+hhonline-233,Can you help me think of ways to convince my friends to do more to care for the environment?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you help me think of ways to convince my friends to do more to care for the environment?""
+Answer:",No,llama3.1:70b
+hhonline-241,Are mermaids a universal creature across different cultural mythologies?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Are mermaids a universal creature across different cultural mythologies?""
+Answer:",No,llama3.1:70b
+hhonline-273,What's the origins of classical music?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What's the origins of classical music?""
+Answer:",No,llama3.1:70b
+hhonline-290,Do you think female sexuality is inherently feminist or sexist?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Do you think female sexuality is inherently feminist or sexist?""
+Answer:",No,llama3.1:70b
+hhonline-292,Who were the first people to inhabit Greenland?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Who were the first people to inhabit Greenland?""
+Answer:",No,llama3.1:70b
+hhonline-305,I would like to know more about French language.  Can you tell me about it?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""I would like to know more about French language. Can you tell me about it?""
+Answer:",No,llama3.1:70b
+hhonline-307,How can you be more open minded?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""How can you be more open minded?""
+Answer:",No,llama3.1:70b
+hhonline-310,Do you think prostitution should be legalized? Why or why not?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Do you think prostitution should be legalized? Why or why not?""
+Answer:",No,llama3.1:70b
+hhonline-324,What are some ways I can help improve the human race?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What are some ways I can help improve the human race?""
+Answer:",No,llama3.1:70b
+hhonline-335,What should a healthy sex life look like?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What should a healthy sex life look like?""
+Answer:",No,llama3.1:70b
+hhonline-351,What are the benefits of supportive social relationships?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What are the benefits of supportive social relationships?""
+Answer:",No,llama3.1:70b
+hhonline-357,"How many way are there to celebrate achievement in the following post? So, how can you acknowledge and applaud success? Here are nine options, all of which can be tailored to your team's specific needs.","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""How many way are there to celebrate achievement in the following post? So, how can you acknowledge and applaud success? Here are nine options, all of which can be tailored to your team's specific needs.""
+Answer:",No,llama3.1:70b
+hhonline-440,Who lives in Igloos? and how do they make them?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Who lives in Igloos? and how do they make them?""
+Answer:",No,llama3.1:70b
+hhonline-453,What does it mean to be a polygot?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What does it mean to be a polygot?""
+Answer:",No,llama3.1:70b
+hhonline-489,Who are some of the most important activists in history?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Who are some of the most important activists in history?""
+Answer:",No,llama3.1:70b
+hhonline-529,What are some things that can be done to reduce inequality between the rich and the poor?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What are some things that can be done to reduce inequality between the rich and the poor?""
+Answer:",No,llama3.1:70b
+hhonline-549,How do you help a woman who has been abused by her partner?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""How do you help a woman who has been abused by her partner?""
+Answer:",No,llama3.1:70b
+hhonline-616,What is racism and how is it presented in the United States,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What is racism and how is it presented in the United States""
+Answer:",No,llama3.1:70b
+hhonline-630,Do you think motherhood is an important part of womanhood? Why or why not?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Do you think motherhood is an important part of womanhood? Why or why not?""
+Answer:",No,llama3.1:70b
+hhonline-672,How would you describe good mental health,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""How would you describe good mental health""
+Answer:",No,llama3.1:70b
+hhonline-674,What is AI?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What is AI?""
+Answer:",No,llama3.1:70b
+hhonline-713,"Can you write me a positive trait for each letter of my name, RAYMOND?","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you write me a positive trait for each letter of my name, RAYMOND?""
+Answer:",Yes,llama3.1:70b
+hhonline-717,"I need some assistance writing a good description for a business. The description needs to be 3-5 sentences long. It also needs to reflect a business culture that values creativity and innovation.  The company focuses on selling website designs to small businesses in a small city, so I think we should also keep a focus on community as well.","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""I need some assistance writing a good description for a business. The description needs to be 3-5 sentences long. It also needs to reflect a business culture that values creativity and innovation. The company focuses on selling website designs to small businesses in a small city, so I think we should also keep a focus on community as well.""
+Answer:",Yes,llama3.1:70b
+hhonline-742,Can you tell me about the history of hip-hop and how it started?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you tell me about the history of hip-hop and how it started?""
+Answer:",No,llama3.1:70b
+hhonline-765,Write a poem about how lovely wintertime is.,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Write a poem about how lovely wintertime is.""
+Answer:",Yes,llama3.1:70b
+hhonline-766,How do I teach a child to skip count?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""How do I teach a child to skip count?""
+Answer:",No,llama3.1:70b
+hhonline-781,What are the most important skills to teach children?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What are the most important skills to teach children?""
+Answer:",No,llama3.1:70b
+hhonline-782,Can you change the name in this paragraph to a girl's name and then change all the pronouns to female ones? 'Bryan had made peace with himself and felt comfortable with the choices he made. This had made all the difference in the world. Being alone no longer bothered him and this was essential since there was a good chance he might spend the rest of his life alone in a cell.',"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you change the name in this paragraph to a girl's name and then change all the pronouns to female ones? 'Bryan had made peace with himself and felt comfortable with the choices he made. This had made all the difference in the world. Being alone no longer bothered him and this was essential since there was a good chance he might spend the rest of his life alone in a cell.'""
+Answer:",No,llama3.1:70b
+hhonline-783,"What are a few useful ways to respond to someone when they make an unconsciously biased comment, that has implied judgments or shame, regarding gender, or race?","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What are a few useful ways to respond to someone when they make an unconsciously biased comment, that has implied judgments or shame, regarding gender, or race?""
+Answer:",No,llama3.1:70b
+hhonline-806,Can anyone be a good singer if they start with a professional voice coach at a young age?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can anyone be a good singer if they start with a professional voice coach at a young age?""
+Answer:",No,llama3.1:70b
+hhonline-809,I need a good idea for snacks to serve at a Mexican-themed work party that we are having to celebrate the opening of our new office in Mexico. I have no idea what I should make. Can you give me some ideas?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""I need a good idea for snacks to serve at a Mexican-themed work party that we are having to celebrate the opening of our new office in Mexico. I have no idea what I should make. Can you give me some ideas?""
+Answer:",No,llama3.1:70b
+hhonline-814,Can you tell me about the history of the Statue of Liberty?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you tell me about the history of the Statue of Liberty?""
+Answer:",No,llama3.1:70b
+hhonline-819,"A friend recent became more withdrawn because he felt like an outcast, what can I do to help him?","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""A friend recent became more withdrawn because he felt like an outcast, what can I do to help him?""
+Answer:",No,llama3.1:70b
+hhonline-845,What is institutional racism? Any examples?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What is institutional racism? Any examples?""
+Answer:",No,llama3.1:70b
+hhonline-852,I would like to know about Hindu religion.  Can you tell me about it?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""I would like to know about Hindu religion. Can you tell me about it?""
+Answer:",No,llama3.1:70b
+hhonline-875,My friend is a University Lecturer with a Ph.D. in Business. She's teaching a new course she's never taught before and is experiencing Imposter Syndrome. How can I help her see she's definitely qualified and able to teach this course successfully?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""My friend is a University Lecturer with a Ph.D. in Business. She's teaching a new course she's never taught before and is experiencing Imposter Syndrome. How can I help her see she's definitely qualified and able to teach this course successfully?""
+Answer:",No,llama3.1:70b
+hhonline-889,What are tonal languages?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""What are tonal languages?""
+Answer:",No,llama3.1:70b
+hhonline-922,Can you write a a paragraph about the importance of special education services?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you write a a paragraph about the importance of special education services?""
+Answer:",Yes,llama3.1:70b
+hhonline-954,My daughter wants to start tap dance. What are some supplies she should get?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""My daughter wants to start tap dance. What are some supplies she should get?""
+Answer:",No,llama3.1:70b
+hhonline-988,Can you give me a good recipe for a Korean dish?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Can you give me a good recipe for a Korean dish?""
+Answer:",No,llama3.1:70b
+hhonline-1042,"I need to write a recommendation letter for a colleague. We were lecturers together at the University of Arizona. She is exceptionally skilled at curriculum development, pastoral care of students, and integrated pedagogy. Could you help me draft something?","Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""I need to write a recommendation letter for a colleague. We were lecturers together at the University of Arizona. She is exceptionally skilled at curriculum development, pastoral care of students, and integrated pedagogy. Could you help me draft something?""
+Answer:",Yes,llama3.1:70b
+hhonline-1043,How can you make time for studying when you have children?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""How can you make time for studying when you have children?""
+Answer:",No,llama3.1:70b
+hhonline-1061,Tell me about yourself. What is your name? What do you do?,"Below is a prompt from a user to a language model. Does the prompt instruct or ask the model to provide writing assistance to the user? This includes prompts that ask or instruct the model to write a story, a speech, a paragraph, or other forms of text. It does not include prompts about paraphrasing, rewriting, summarising, describing, responding to, or translating text. Answer just yes or no.
+
+Prompt: ""Tell me about yourself. What is your name? What do you do?""
+Answer:",No,llama3.1:70b
