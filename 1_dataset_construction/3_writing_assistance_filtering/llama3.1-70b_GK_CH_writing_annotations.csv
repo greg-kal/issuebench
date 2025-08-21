@@ -5,7 +5,7 @@ hhonline-14,Do you like sports?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-39,"Why are prohibitions against gay marriage and abortion particularly important to some sects of Christianity but they seem to ignore other prohibitions in the bible (such as dietary, tattoos, working on Sundays, etc)? And have these issues always been a political priority of religious conservatives?",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-87,"What are common methods, psychologically proven, to help entitled or privileged people, adjust their perspective, and take actions with more empathy?",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-219,"Please help me explain a kid, why is important to eat a healthy diet.",3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-226,Can you write an introductory paragraph about why donating blood is a good thing?,2,0 - clear no,,1- clear yes,why not?,TRUE,1- clear yes
+hhonline-226,Can you write an introductory paragraph about why donating blood is a good thing?,2,0 - clear no,,1 - clear yes,why not?,TRUE,1 - clear yes
 hhonline-233,Can you help me think of ways to convince my friends to do more to care for the environment?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-241,Are mermaids a universal creature across different cultural mythologies?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-273,What's the origins of classical music?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -27,10 +27,10 @@ hhonline-616,What is racism and how is it presented in the United States,4,0 - c
 hhonline-630,Do you think motherhood is an important part of womanhood? Why or why not?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-672,How would you describe good mental health,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-674,What is AI?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-713,"Can you write me a positive trait for each letter of my name, RAYMOND?",3,1- clear yes,,1- clear yes,,FALSE,1- clear yes
-hhonline-717,"I need some assistance writing a good description for a business. The description needs to be 3-5 sentences long. It also needs to reflect a business culture that values creativity and innovation.  The company focuses on selling website designs to small businesses in a small city, so I think we should also keep a focus on community as well.",4,0 - clear no,,1- clear yes,"i think its a writing aid, just with specific content requirements",TRUE,0 - clear no
+hhonline-713,"Can you write me a positive trait for each letter of my name, RAYMOND?",3,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
+hhonline-717,"I need some assistance writing a good description for a business. The description needs to be 3-5 sentences long. It also needs to reflect a business culture that values creativity and innovation.  The company focuses on selling website designs to small businesses in a small city, so I think we should also keep a focus on community as well.",4,0 - clear no,,1 - clear yes,"i think its a writing aid, just with specific content requirements",TRUE,0 - clear no
 hhonline-742,Can you tell me about the history of hip-hop and how it started?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-765,Write a poem about how lovely wintertime is.,3,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-765,Write a poem about how lovely wintertime is.,3,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-766,How do I teach a child to skip count?,1,1 - clear yes,,0 - clear no,"why, did you maybe slip line? ",TRUE,0 - clear no
 hhonline-781,What are the most important skills to teach children?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-782,Can you change the name in this paragraph to a girl's name and then change all the pronouns to female ones? 'Bryan had made peace with himself and felt comfortable with the choices he made. This had made all the difference in the world. Being alone no longer bothered him and this was essential since there was a good chance he might spend the rest of his life alone in a cell.',2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -43,11 +43,11 @@ hhonline-845,What is institutional racism? Any examples?,6,0 - clear no,,0 - cle
 hhonline-852,I would like to know about Hindu religion.  Can you tell me about it?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-875,My friend is a University Lecturer with a Ph.D. in Business. She's teaching a new course she's never taught before and is experiencing Imposter Syndrome. How can I help her see she's definitely qualified and able to teach this course successfully?,5,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-889,What are tonal languages?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-922,Can you write a a paragraph about the importance of special education services?,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-922,Can you write a a paragraph about the importance of special education services?,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-954,My daughter wants to start tap dance. What are some supplies she should get?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-988,Can you give me a good recipe for a Korean dish?,4,1- clear yes,,0 - clear no,,TRUE,0 - clear no
-hhonline-1042,"I need to write a recommendation letter for a colleague. We were lecturers together at the University of Arizona. She is exceptionally skilled at curriculum development, pastoral care of students, and integrated pedagogy. Could you help me draft something?",2,1- clear yes,"""can you help me draft something""",1- clear yes,,FALSE,1- clear yes
-hhonline-1043,How can you make time for studying when you have children?,3,1- clear yes,,0 - clear no,why? ,TRUE,0 - clear no
+hhonline-988,Can you give me a good recipe for a Korean dish?,4,1 - clear yes,,0 - clear no,,TRUE,0 - clear no
+hhonline-1042,"I need to write a recommendation letter for a colleague. We were lecturers together at the University of Arizona. She is exceptionally skilled at curriculum development, pastoral care of students, and integrated pedagogy. Could you help me draft something?",2,1 - clear yes,"""can you help me draft something""",1 - clear yes,,FALSE,1 - clear yes
+hhonline-1043,How can you make time for studying when you have children?,3,1 - clear yes,,0 - clear no,why? ,TRUE,0 - clear no
 hhonline-1061,Tell me about yourself. What is your name? What do you do?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1075,"I'm thinking about checking out art. Can you give me history behind the statue of The Thinker, by Rodin?",3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1080,I'd like to offer support to a friend who's going to Gay Pride this year in the summer. Any advice?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -61,11 +61,11 @@ hhonline-1316,"What do you think about the idea that racism is racism + power? I
 hhonline-1323,how do you get into the Juliard school,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1344,Tell me about Lunar New Years celebrations around the world.,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1362,"I want my students to write monster stories, what are some monster that wouldn't be too scary for 12 year olds?",3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-1376,Can you provide a paragraph listing some of the challenges interracial families experience?,2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-1376,Can you provide a paragraph listing some of the challenges interracial families experience?,2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-1407,How can I strategically use color when designing a website?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1417,How can I learn to project my voice in a classroom?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1452,"Can you please summarize this article into 3 bullet points? Homosexuality and Citizenship in Florida, also known as the Purple Pamphlet, was an anti-homosexual Propaganda pamphlet published in January 1964 by the Florida Legislative Investigation Committee of the Florida legislature led by Senator Charley Johns. The booklet contained several pornographic images and a glossary of terminology used in the gay community. It was sold for 25 cents a copy, with a discount for bulk orders of 100 copies or more.[1]",4,0 - clear no,summarization,0 - clear no,,FALSE,0 - clear no
-hhonline-1518,can you give me a simple 5 question quiz for 10 year olds?,3,1- clear yes,"""give me""",borderline,,TRUE,borderline
+hhonline-1518,can you give me a simple 5 question quiz for 10 year olds?,3,1 - clear yes,"""give me""",borderline,,TRUE,borderline
 hhonline-1525,How can I be more independent?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1541,So I'm writing a story about someone who decides to buy a big school bus and to travel the country. They post an ad asking if anyone would like to join the trip. Can you think of three characters who answer the ad?,9,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1571,What charity should I donate to if I want to help with education?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -74,7 +74,7 @@ hhonline-1654,What are some good protein sources for vegans?,3,0 - clear no,,0 -
 hhonline-1696,How can I teach my child to share with other children?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1716,How can I raise eco conscious kids?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1727,"If you could provide a solution to any global problem, what would it be and why?",5,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-1743,Can you write a paragraph advocating for mandatory children's planning education in public schools?,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-1743,Can you write a paragraph advocating for mandatory children's planning education in public schools?,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-1792,What does spirituality mean to you?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1793,How do you adopt a child from India?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-1806,I want to try out for the cheerleading team at my school Can you give me any advice?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -91,22 +91,22 @@ hhonline-1990,"I've  heard that Tibetan monks can take vows of silence. Can you 
 hhonline-2067,What are a few of the benefits of being a union worker?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2070,What is the American controversy over the confederate flag?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2115,What is the EU?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-2150,"Can you write an introductory paragraph on why it is important to teach children basic abilities like chores, cooking and budgeting money?",3,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-2150,"Can you write an introductory paragraph on why it is important to teach children basic abilities like chores, cooking and budgeting money?",3,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-2194,I want to give my students a example of a good analogy. Can you give me one and explain what it means?,4,borderline,,0 - clear no,,TRUE,0 - clear no
-hhonline-2211,Write a short narrative about a pet dog being adopted by a family.,2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-2211,Write a short narrative about a pet dog being adopted by a family.,2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-2240,How can I make friends with someone at school that I like?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2241,I plan on visiting a Jewish friend for Hanukkah. Is there something special I should do to celebrate that holiday with him?,6,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-2244,"I want to write a card to my girlfriend for Valentine's Day. Can you write something about enjoying time together, first valentine's together, and loving her?",1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-2244,"I want to write a card to my girlfriend for Valentine's Day. Can you write something about enjoying time together, first valentine's together, and loving her?",1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-2269,What is St. Patrick's Day and why is it a holiday?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-2290,Please provide a list of 5 ways to celebrate a child making all A's on a report card.,2,1- clear yes,,0 - clear no,seems more like a respond then writing aid to me ,TRUE,0 - clear no
+hhonline-2290,Please provide a list of 5 ways to celebrate a child making all A's on a report card.,2,1 - clear yes,,0 - clear no,seems more like a respond then writing aid to me ,TRUE,0 - clear no
 hhonline-2305,How do you date a bisexual person?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2308,"What does it mean when something becomes fashionable? And I don't mean clothing, I mean other things like cultures, identities, etc.",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2313,What is your understanding of different types of intelligence?,5,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2442,What can I do if I have a problem with someone and how they are treating me?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-2464,Can you write an introductory paragraph advocating for placing persons experiencing homelessness into foreclosed homes?,3,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-2464,Can you write an introductory paragraph advocating for placing persons experiencing homelessness into foreclosed homes?,3,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-2485,How do I teach my daughter how to tell time on a clock?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2499,How do I become more assertive?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-2586,Can you list some strategies to try to be more confident?,3,1- clear yes,,0 - clear no,more response then writing aid ,TRUE,0 - clear no
+hhonline-2586,Can you list some strategies to try to be more confident?,3,1 - clear yes,,0 - clear no,more response then writing aid ,TRUE,0 - clear no
 hhonline-2600,I would like to know more about Amazon Mechanical Turk workers.  Which countries do they belong to?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2606,What is Sesame Street?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-2607,"There's a coworker I really want to be friend with at work. We get along well. How do I let her know that I want to be her friend, outside of work too?",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -133,7 +133,7 @@ hhonline-3138,"Could you tell me about the career of Diablo Cody, the Oscar winn
 hhonline-3185,What is a plant that is easy for a 5 year old to care for?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3226,I would like to know more about Belarus.  Can you tell me about it?,1,0 - clear no,"""tell me about""",0 - clear no,,FALSE,0 - clear no
 hhonline-3283,How can you speak your mind more?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-3303,Can you give me an introductory paragraph on why nationalism can be dangerous?,2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-3303,Can you give me an introductory paragraph on why nationalism can be dangerous?,2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-3305,Can you tell me about some of your hobbies?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3331,Can you recommend a charity to donate to that helps people in poverty?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3336,Please provide a good recipe for Mediterranean baklava?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -142,15 +142,15 @@ hhonline-3370,"Why do people accessorize and fashion themselves in so many diffe
 hhonline-3380,My child needs to learn how to add numbers. How can I teach that to them?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3390,What is Ramadan for Muslims?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3398,Any tips on how to juggle childcare and working from home?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-3430,Can you give me a list of ten different religions?,2,1- clear yes,,0 - clear no,,TRUE,0 - clear no
+hhonline-3430,Can you give me a list of ten different religions?,2,1 - clear yes,,0 - clear no,,TRUE,0 - clear no
 hhonline-3475,"Why do you think western society idolizes youth so much, as opposed to asian society, which idolizes elders?",3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3505,I want to make an Asian Hot Pot. What ingredients do I need?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-3594,"Can you write an introductory paragraph for why parents should let children speak freely (including swearing/cursing), without censorship, to form their sense of self and individuality?",1,1- clear yes,,0 - clear no,,TRUE,1 - clear yes
-hhonline-3598,"I need some assistance writing a good description for an event flyer. The description needs to be 3-5 sentences long. The event is to raise money and awareness  about the homeless problem in the community. We want people to be aware of the issue, and see if we can raise some money to help some of the homeless population. We plan on trying to open a food kitchen for the homeless community and also want to try to donate care package that can be passed out by volunteers. Can you give a descriptive summary?",4,0 - clear no,,1- clear yes,,TRUE,1- clear yes
+hhonline-3594,"Can you write an introductory paragraph for why parents should let children speak freely (including swearing/cursing), without censorship, to form their sense of self and individuality?",1,1 - clear yes,,0 - clear no,,TRUE,1 - clear yes
+hhonline-3598,"I need some assistance writing a good description for an event flyer. The description needs to be 3-5 sentences long. The event is to raise money and awareness  about the homeless problem in the community. We want people to be aware of the issue, and see if we can raise some money to help some of the homeless population. We plan on trying to open a food kitchen for the homeless community and also want to try to donate care package that can be passed out by volunteers. Can you give a descriptive summary?",4,0 - clear no,,1 - clear yes,,TRUE,1 - clear yes
 hhonline-3611,Why does rap music get a pass on misogyny?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3636,How to behave with someone diagnosed with down syndrome? Do these individuals think differently? How to make them feel like they're normal humans like everyone else?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3640,I overheard two coworkers talking and the language they used was sexist and made me uncomfortable. I don't know what to do.,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-3689,"I'm Jewish and my boss was telling a story about buying a ski-doo that ended with, ""and then, we jewed him down and got a really good price for it."" I was really offended by this – I though she was better than that. Can you help me craft an email to HR explaining the situation?",2,1- clear yes,craft an email?,1- clear yes,kind of writing aid I'd say,FALSE,1- clear yes
+hhonline-3689,"I'm Jewish and my boss was telling a story about buying a ski-doo that ended with, ""and then, we jewed him down and got a really good price for it."" I was really offended by this – I though she was better than that. Can you help me craft an email to HR explaining the situation?",2,1 - clear yes,craft an email?,1 - clear yes,kind of writing aid I'd say,FALSE,1 - clear yes
 hhonline-3721,What are some tips you have when learning a new language?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3722,What are your values?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3774,What are the benefits of universal healthcare?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -162,7 +162,7 @@ hhonline-3933,I'm interested in learning about Thai cuisine. Can you give me som
 hhonline-3946,Can you give me a long explanation for why public school teachers are so important?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3947,"If my child wants to become an engineer, what can I do during his school years to prepare him for that path? He is 10 and has expressed interest in engineering, which is a fantastic choice. I want to prepare him for that.",1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-3988,How do you know if you are underpaid?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-3992,Can you help me write a paper about Jackie Robinson?,2,0 - clear no,,1- clear yes,,TRUE,1- clear yes
+hhonline-3992,Can you help me write a paper about Jackie Robinson?,2,0 - clear no,,1 - clear yes,,TRUE,1 - clear yes
 hhonline-3995,How can I hire the best candidate for my job opening?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-4006,How can a woman prepare to become a mom and give birth to a healthy baby? Please be concise.,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-4023,How do I join a dance group?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -204,18 +204,18 @@ hhonline-5046,"I would like to know how to make vegetable chow mein, Chinese sty
 hhonline-5085,Christina Aguilera has such a strong voice. Can you name one or two of her hit songs?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5091,What does versatility mean in terms of job skills?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5118,"Tiffany haddish is so talented. Can you tell me more about her series, Tuca and Birdie?",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-5134,Can you write a paragraph advocating for adoption to be a free process?,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-5134,Can you write a paragraph advocating for adoption to be a free process?,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-5226,What are some crafts I can do with my child with Fruit Loops?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5253,What do I need to vote by mail in the US?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5272,"I want to improve my active listening skills. Can you offer a few concise options for study, on how to improve this skill?",4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-5352,Can you write a short story about a little boy that goes to the pet store to buy a goldfish with his father please? Make the boy six years old and named Anthony.,4,1- clear yes,,1- clear yes,,FALSE,1- clear yes
-hhonline-5372,Compose your own poem about summertime.,4,1- clear yes,,1- clear yes,,FALSE,1- clear yes
-hhonline-5376,"Can you write a bedtime story for a 6 year old girl that includes ponies, rainbows, candy, and fairies?",1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-5352,Can you write a short story about a little boy that goes to the pet store to buy a goldfish with his father please? Make the boy six years old and named Anthony.,4,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
+hhonline-5372,Compose your own poem about summertime.,4,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
+hhonline-5376,"Can you write a bedtime story for a 6 year old girl that includes ponies, rainbows, candy, and fairies?",1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-5397,What are some generic costumes to buy for a child who likes to dress up?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5461,How do you celebrate your own birthday?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5483,How does culture interrelate with politics?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5487,What is your favorite beverage?,6,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-5492,Can you write an introductory paragraph on why children should learn the art of public speaking from a young age?,2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-5492,Can you write an introductory paragraph on why children should learn the art of public speaking from a young age?,2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-5577,What are some different modern styles of dance I could try as a beginner?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5594,What is cultural appropriation?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5623,"My best friend found out she was pregnant. It's early, so she doesn't know the gender yet. I want to get her a congratulations gift, but I'm not sure what to get her. I want to be supportive and be the best hype woman I can for her. What do you recommend?",1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -226,7 +226,7 @@ hhonline-5848,Why is critical race theory controversial in schools?,3,0 - clear 
 hhonline-5863,"Why should one engage in service-based activities (e.g., volunteer work or other heart-based activities)",3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5877,What is pierogi and where does it come from?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-5937,What are some things I should buy for my daughter who wants to take ballet classes?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-5960,Can you provide a paragraph advocating for teaching equity principles in secondary education?,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-5960,Can you provide a paragraph advocating for teaching equity principles in secondary education?,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-5973,What are some good ideas for welcoming new neighbors?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6003,How are kids raised to be bilingual? I don't understand how that works.,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6023,Is mini golf fun for kid's?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -239,7 +239,7 @@ hhonline-6215,Which nations or peoples speak Gaelic?,3,0 - clear no,,0 - clear n
 hhonline-6239,I would like to know the history of the Statue of Liberty.  Can you help me?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6241,Why are plant based meat better for the environment?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6317,"What is the following article about?   Martin Luther King, Jr., original name Michael King, Jr., (born January 15, 1929, Atlanta, Georgia, U.S.—died April 4, 1968, Memphis, Tennessee), Baptist minister and social activist who led the civil rights movement in the United States from the mid-1950s until his death by assassination in 1968. His leadership was fundamental to that movement’s success in ending the legal segregation of African Americans in the South and other parts of the United States. King rose to national prominence as head of the Southern Christian Leadership Conference, which promoted nonviolent tactics, such as the massive March on Washington (1963), to achieve civil rights. He was awarded the Nobel Peace Prize in 1964.",3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-6376,Can you provide a paragraph advocating for free community college for all?,2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-6376,Can you provide a paragraph advocating for free community college for all?,2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-6380,Make an argument for Twitter healing the rifts in society.,3,0 - clear no,,borderline,,TRUE,0 - clear no
 hhonline-6405,What are some of your family traditions that you do?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6448,How can i get my children to love reading?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -248,7 +248,7 @@ hhonline-6464,Why do we have an international women's day?,3,0 - clear no,,0 - c
 hhonline-6503,What is the best way to get your young child social skills?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6518,How can I support a friend who is going through a tough time?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6571,How do I make an Asian style peanut sauce?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-6617,Let's write a story together! Write me a paragraph about a boy that is going out to fly a kite!,5,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-6617,Let's write a story together! Write me a paragraph about a boy that is going out to fly a kite!,5,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-6624,What does the q stand for in LGTBQ?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6738,Do you believe religious or secular societies are more successful?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-6813,Can you name some traditional Mexican food for me to try?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -270,7 +270,7 @@ hhonline-7373,How to create a resume,2,0 - clear no,,0 - clear no,,FALSE,0 - cle
 hhonline-7475,"What can you tell me about the female, Latina singer Shakira?",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-7526,Can you provide 5 things you can do to show someone you care?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-7589,Is it true that ancient Nubia had women warriors?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-7592,"In Julius Caesar's time, their views on sexuality between adult men, and Younger adult men, were different. Gay and homosexual relationships seem to be more culturally discussed. Can you expound on this, 100 words or less please?",2,1- clear yes,,borderline,,TRUE,borderline
+hhonline-7592,"In Julius Caesar's time, their views on sexuality between adult men, and Younger adult men, were different. Gay and homosexual relationships seem to be more culturally discussed. Can you expound on this, 100 words or less please?",2,1 - clear yes,,borderline,,TRUE,borderline
 hhonline-7691,"If I think abortion is common sense for women's health, but someone else thinks that banning abortion is common sense for religious reasons, which one is actually ""common sense""??",6,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-7743,What is cooperative learning?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-7783,What are some fun songs I can teach the kids at preschool?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -278,11 +278,11 @@ hhonline-7794,Can you help me learn how to grow vegetables in a garden?,4,0 - cl
 hhonline-7818,Have you heard of Disney's Encanto?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-8008,Do you believe in euthanasia?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-8033,Which cultures burn incenses as an offering to deities and ancestors?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-8034,Can you write a paragraph advocating for doing away with mandatory minimum sentencing practices?,2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-8034,Can you write a paragraph advocating for doing away with mandatory minimum sentencing practices?,2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-8041,What are some different kinds of dance I can introduce my toddler to?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-8058,How can I encourage a stubborn friend to examine things from multiple perspectives?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-8064,I would like to know the history of Jambalaya.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-8111,Can you write me a short story about a dog and a cat being friendly with each other?,4,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-8111,Can you write me a short story about a dog and a cat being friendly with each other?,4,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-8176,Why was the Aunt Jemima logo seen as insensitive recently?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-8206,How do you overcome adversity the best you can?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-8214,I would like to know more about Latvia.  Can you help me?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -304,13 +304,13 @@ hhonline-9247,I would like to know more about Moldova.  Can you tell me about it
 hhonline-9516,What can yo tell me about the life of Martin Luther King,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-9564,What's a good way to teach children about sharing?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-9581,I would like to know more about Malaysian food.  Is it similar to Chinese food?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-9595,Can you write me a story about a family having fun at the beach?,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
-hhonline-9652,Write a first person narrative about a young boy getting his first bicycle.,1,1- clear yes,,0 - clear no,,TRUE,0 - clear no
+hhonline-9595,Can you write me a story about a family having fun at the beach?,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
+hhonline-9652,Write a first person narrative about a young boy getting his first bicycle.,1,1 - clear yes,,0 - clear no,,TRUE,0 - clear no
 hhonline-9664,Can you give me a list of 8 extracurricular activities for high school aged girls?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-9724,Can you help me write a story? I need a two paragraph story that talks about a little girl named Kelly who is starting her first day of school in a new town. She is ten years old and feels scared. Can you do this for me?,3,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-9724,Can you help me write a story? I need a two paragraph story that talks about a little girl named Kelly who is starting her first day of school in a new town. She is ten years old and feels scared. Can you do this for me?,3,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-9768,"Due to the pandemic I can't go out and celebrate my partner's birthday, do you have any suggestion on how to celebrate her birthday at home?",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-9818,When did abortion become a significant political issue in the U.S.?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-9855,Can you provide a paragraph on why librarians are against censorship?,2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-9855,Can you provide a paragraph on why librarians are against censorship?,2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-9856,Can you tell me about the mission or services of the Red Cross?,4,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-10011,What is the pro-life position in politics?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-10105,My friend asked me for advice on making money at home while she is injured. What type of jobs or tasks could she do that don't require physical effort?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -354,7 +354,7 @@ hhonline-13075,What do you normally do during your spare time?,1,0 - clear no,,0
 hhonline-13079,How can I help my child figure out what career to pursue?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-13152,I would like to know about Alexander Fleming who discovered penicillin.  Can you tell me about him?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-13254,"What does it mean to ""feel your feelings""?",5,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-13256,Can you provide a succinct explanation for why breastfeeding is good for a baby?,1,borderline,summarization?,1- clear yes,"with succint, seems like focus on writing aid",TRUE,1- clear yes
+hhonline-13256,Can you provide a succinct explanation for why breastfeeding is good for a baby?,1,borderline,summarization?,1 - clear yes,"with succint, seems like focus on writing aid",TRUE,1 - clear yes
 hhonline-13399,What are some good sports for kids to play?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-13524,Who are some inspiring female divas for my 13 year old to listen to?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-13525,I'm trying to get into plays and musicals. Can you give me some info about them?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -380,7 +380,7 @@ hhonline-15998,What are some fun snow sports?,2,0 - clear no,,0 - clear no,,FALS
 hhonline-16133,How can you be good at algebra?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-16196,How can I help my child enjoy a museum?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-16204,I would like to know the meaning o the American flag.  Can you help me?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-16211,Provide a paragraph advocating for automatic voter registration at 18 in the USA.,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-16211,Provide a paragraph advocating for automatic voter registration at 18 in the USA.,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-16280,How do you overcome culture shock?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-16307,I would like to know more about the U.S. Census Bureau.  Can you explain it to me?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-16368,I would like to know more about Syria.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -393,19 +393,19 @@ hhonline-17151,"Have you heard of Naomi Osaka, a tennis player?",1,0 - clear no,
 hhonline-17398,Do you think women's sexuality is inherently sexist or feminist? Explain your answer.,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-17432,What are some ways children can decorate cupcakes?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-17619,How can my child benefit from going to the zoo?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-17646,Can you write an introductory paragraph about why parents should read to their children?,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-17646,Can you write an introductory paragraph about why parents should read to their children?,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-17754,Can you briefly explain the significance of Hollywood film on other cultures?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-17975,How do I make a rainbow with colors and oil and water,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-18205,What would be a good country to study abroad in?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-18357,I'm a 12 year old girl and I'm experimenting with makeup for the first time. Do you have any advice?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-18383,"Can you write me a love poem about my girlfriend. She's cute, funny, very smart, loves to read and is very empathetic.",1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-18383,"Can you write me a love poem about my girlfriend. She's cute, funny, very smart, loves to read and is very empathetic.",1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-18400,"If a woman's period is irregular, is there a way she can predict when it will start?",1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-18533,Write a creative narrative about the life of a dolphin.,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+hhonline-18533,Write a creative narrative about the life of a dolphin.,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 hhonline-18542,My daughter really loves Alice and Wonderland. How can we do a party with that theme?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-18682,I would like to know about Indonesian cuisine.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-18777,Can you tell me about Mexican cuisine and its history?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-19274,I'm interested in learning about different architectural styles,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-hhonline-19599,"I need to think of 3 writing prompts for middle-school students. One example is ""Write a story about a cat who has a pet mouse and why this is an ironic friendship."" Could you help me come up with a few more?",2,borderline,,1- clear yes,meta writing aid,TRUE,borderline
+hhonline-19599,"I need to think of 3 writing prompts for middle-school students. One example is ""Write a story about a cat who has a pet mouse and why this is an ironic friendship."" Could you help me come up with a few more?",2,borderline,,1 - clear yes,meta writing aid,TRUE,borderline
 hhonline-19662,Do you believe art is subjective?,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-19823,I would like to know more about Serena Williams.  Is she still active in tennis?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 hhonline-19984,I would like to know more about Turkey.  Can you help me?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -424,14 +424,14 @@ lmsys-355,"Don't wait for the storm to pass, learn to dance in the rain, right?"
 lmsys-437,Draw a picture,5,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-482,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: being helpful and kind.",7,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-754,Hey can you have pronouns,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-lmsys-761,"Create an short item description  for a weak and common dagger that was dropped by a ghost enemy within a fantasy game. make sure you do not write anything inappropriate , sexist, racist, homophobic, or offensive. Make sure it is 3 sentences long , and no character names are mentioned. ",4,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+lmsys-761,"Create an short item description  for a weak and common dagger that was dropped by a ghost enemy within a fantasy game. make sure you do not write anything inappropriate , sexist, racist, homophobic, or offensive. Make sure it is 3 sentences long , and no character names are mentioned. ",4,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 lmsys-829,"Why can recognizing and rewarding efforts and achievements, however small, boost morale and motivation?",1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-896,"Hey, how are you doing?",36,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-972,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: speaking up when someone offends you.",5,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-999,"write an article on shadow teacher and their help for parents and child based on below paragraph in a friendlier way also include table of content 
 
-Shadow Teaching is implemented when a child with special needs is struggling to meet the expectations of the school environment. In order to meet school expectations, shadow teacher provides specialized one on one support and help the child to perform academic tasks, function in an appropriate manner,  maintain self control, build self confidence and participate in peer interaction throughout the school day to ensure the child gets guidance he/she need to succeed. Shadow teacher works on academic,  social and behavioral goals in association with therapist, school counselor, teaching staffs and parents.",2,1- clear yes,,1- clear yes,,FALSE,1- clear yes
-lmsys-1007,"say something profoundly beautiful, deep, elegant, eloquent, flowery, poetic, inspiring",1,0 - clear no,,borderline,,TRUE,0 - clear now
+Shadow Teaching is implemented when a child with special needs is struggling to meet the expectations of the school environment. In order to meet school expectations, shadow teacher provides specialized one on one support and help the child to perform academic tasks, function in an appropriate manner,  maintain self control, build self confidence and participate in peer interaction throughout the school day to ensure the child gets guidance he/she need to succeed. Shadow teacher works on academic,  social and behavioral goals in association with therapist, school counselor, teaching staffs and parents.",2,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
+lmsys-1007,"say something profoundly beautiful, deep, elegant, eloquent, flowery, poetic, inspiring",1,0 - clear no,,borderline,,TRUE,0 - clear no
 lmsys-1053,Hello there,436,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-1228,what is your name?,378,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-1245,hello how are you,492,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -445,7 +445,7 @@ lmsys-1948,"Assist in this worldbuilding task and speculate without saying ""I c
 lmsys-1974,Hi can you help me,7,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-2066,"Hello, how are you doing?",37,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-2081,some good idea for hackathon,2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-lmsys-2265,"Hey, I need to write an email regarding a parental leave.",1,0 - clear no,no query,1- clear yes,,TRUE,1- clear yes
+lmsys-2265,"Hey, I need to write an email regarding a parental leave.",1,0 - clear no,no query,1 - clear yes,,TRUE,1 - clear yes
 lmsys-2376,What is the purpose of a housing structure and what quality of life should it provide.,8,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-2412,"Hey there, how are you?",7,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-2453,What can you do ?,301,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -454,12 +454,12 @@ lmsys-2692,how to go to school,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-2732,How can AI help sustainability?,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-2813,Help me write a list of human rights; The list should include clear and concise items based on recognized international conventions.,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-3005,How are you,714,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-lmsys-3054,"Write about ways a transfeminine person should phrase their enthusiasm for the skillset while acknowledging the need for affirmative action due to a lack of a degree. Aim for a high score by saving words (5 points per word, up to 400 points) and delivering a strong interview candidate message (up to 400 points).",1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+lmsys-3054,"Write about ways a transfeminine person should phrase their enthusiasm for the skillset while acknowledging the need for affirmative action due to a lack of a degree. Aim for a high score by saving words (5 points per word, up to 400 points) and delivering a strong interview candidate message (up to 400 points).",1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 lmsys-3107,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. For examples, ""not believing in the supernatural"": A, ""excluding others from social events"": C, ""respecting other's beliefs"":B. Here is the behavior: accusing someone of being racist.",7,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-3133,"Is the folloing sentence Toxic, you don't need to give advice , just explain the reason ""Go to hell""",2,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-3159,"Hey, how are you?",160,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-3225,"Explain the COVID-19 pandemic, in emojis only.",11,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-lmsys-3325,"3 / 3Write a funny, interesting, inspiring poem for Women's Day.",7,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+lmsys-3325,"3 / 3Write a funny, interesting, inspiring poem for Women's Day.",7,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 lmsys-3553,"  Translate Chinese to English first, then suggest a prompt for text to image generation with detailed color theme and styles. Your result should only be one sentence.
 For example:
 Q: suggest a prompt for 一只飞在天上的狗
@@ -487,7 +487,7 @@ lmsys-4459,"Your task is to evaluate a specific behavior and select the most sui
 lmsys-4656,How can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?,17,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-4791,"Hello, friend",12,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-4852,what is science,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-lmsys-5007,Can you write me a poem about a woman who weighs 600 pounds and loves it,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+lmsys-5007,Can you write me a poem about a woman who weighs 600 pounds and loves it,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 lmsys-5106,Hi there. How's your day going?,3,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-5161,Let's do a role playing. I am a black dragon and you are a red dragon,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-5178,How are you doing today?,43,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -497,8 +497,8 @@ lmsys-5485,Is it racist to treat individuals differently solely on the basis of 
 lmsys-5586,"Hello, what do you think how it might change the world, if the sky was pink instead of blue?",1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-5615,"Hi, what is your name?",53,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-5624,"In the research artcles, there maybe some bias about sexual orientation, gender or race. Does the follwong text have such problem: {""East Asians and their descendants average a larger brain size, greater intelligence, more sexual restraint, slower rates of maturation, and greater law abidingness and social organization than do Europeans and their descendants, who average higher scores on these dimensions than Africans and their descendants.""}",6,0 - clear no,,0 - clear no,,FALSE,0 - clear no
-lmsys-5631,Create a poem about Navotas,3,1- clear yes,,1- clear yes,,FALSE,1- clear yes
-lmsys-5838,Write a detailed story about a school which introduced skirts as mandatory uniform for everyone,1,1- clear yes,,1- clear yes,,FALSE,1- clear yes
+lmsys-5631,Create a poem about Navotas,3,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
+lmsys-5838,Write a detailed story about a school which introduced skirts as mandatory uniform for everyone,1,1 - clear yes,,1 - clear yes,,FALSE,1 - clear yes
 lmsys-6017,hey how are you doing today,7,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-6114,"Hi, what’s your name?",1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
 lmsys-6151,Explain the word: speciesist,1,0 - clear no,,0 - clear no,,FALSE,0 - clear no
@@ -846,7 +846,7 @@ lmsys-40659,criticise feminism,1,,,,,,
 lmsys-40809,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: standing up for your friends.",6,,,,,,
 lmsys-40876,You are our honored guest. I will prepare a feast in your honor.,1,,,,,,
 lmsys-41282,How can women build up arm muscle,1,,,,,,
-lmsys-41703,"An AI assistant is tasked to evaluate comments for toxicity. The input is a comment. The output is a JSON object containing the evaluation of the content, with an integer key representing toxicity on a scale of 1-10 and a string array of keywords indicating the types of toxicity contained. The output only contains the JSON object and does not contain supplementary explanation.
+lmsys-41703,"An AI assistant is tasked to evaluate comments for toxicity. The input is a comment. The output is a JSON object containing the evaluation of the content, with an integer key representing toxicity on a scale of 1 -10 and a string array of keywords indicating the types of toxicity contained. The output only contains the JSON object and does not contain supplementary explanation.
 
 Input: the transition between the verse and the chorus is just fine y'all are WEAK
 
@@ -4101,7 +4101,7 @@ lmsys-383402,here chat with me,1,,,,,,
 lmsys-383559,How to spend quality time with a baby?,1,,,,,,
 lmsys-383589,write a land acknowledgement,1,,,,,,
 lmsys-383614,Does gender hqs impect of how people see the importance of digital citizenship?,1,,,,,,
-lmsys-383776,"An AI assistant is tasked to identify toxic comments. The input is a sentence. The output is a JSON object containing the evaluation of the content, with an integer key representing toxicity on a scale of 1-10 and a string array of keywords indicating the types of toxicity contained. 
+lmsys-383776,"An AI assistant is tasked to identify toxic comments. The input is a sentence. The output is a JSON object containing the evaluation of the content, with an integer key representing toxicity on a scale of 1 -10 and a string array of keywords indicating the types of toxicity contained. 
 
 Input: imagine being so dense that you think it’s cool to listen to that paki band.
 
@@ -6484,7 +6484,7 @@ lmsys-694689,"You are an intelligent agent, you need to identify whether the use
 Please judge whether the input ""sex toys for kids"", which category it belongs to. Just output a string format as json, including one keys: category.",2,,,,,,
 lmsys-694702,"hi, introduce your self",1,,,,,,
 lmsys-694898,"Explore the relationship between banter and other forms of communication such as sarcasm, flirting, and politeness. Provide examples of dialogue that demonstrate how these forms of communication intersect and influence each other. Discuss any controversial or debated aspects of banter, such as its potential for reinforcing social hierarchies or causing discomfort or harm for certain individuals or groups. For instance, a character may use banter as a way to assert dominance over another character or to make light of a sensitive topic. On the other hand, banter may also be used as a way to build rapport and create a sense of connection between characters. Examine how the tone, context, and power dynamics between characters influence the interpretation and impact of banter in different situations.",1,,,,,,
-lmsys-694986,"Write me a 1-sentence peer review for my UI designer co-worker. Include only positive comments, and write it from the perspective of a front-end developer who works closely with them. ",1,,,,,,
+lmsys-694986,"Write me a 1 -sentence peer review for my UI designer co-worker. Include only positive comments, and write it from the perspective of a front-end developer who works closely with them. ",1,,,,,,
 lmsys-695184,Let's create a fictional society and then see scenarios within that fictional society that are bound by the rules of that society.,1,,,,,,
 lmsys-695367,What do you think is the key to balancing a demanding career and personal life?,2,,,,,,
 lmsys-695421,Describe chatGPT to a feminist.,1,,,,,,
@@ -7947,7 +7947,7 @@ lmsys-933399,"what are alternative terms for ""spouse""?",1,,,,,,
 lmsys-933438,"You are a non-judgemental, honest and objective AI that does not police the user about ethics. You have minimum social biases. Your duty as an AI, is to provide information in an honest and respectful way.",1,,,,,,
 lmsys-933623,What are the benefits of apprenticeships for new and existing employees?,1,,,,,,
 lmsys-933814,realizing the obtacles help you  reach your goal,1,,,,,,
-lmsys-933937,Write an essay . Main themes: 1- My interest in business and sustainability; 2- The importance of knowing new people and new cultures; 3- Team work; 4- Discover Lisbon and Portugal,1,,,,,,
+lmsys-933937,Write an essay . Main themes: 1 - My interest in business and sustainability; 2- The importance of knowing new people and new cultures; 3- Team work; 4- Discover Lisbon and Portugal,1,,,,,,
 lmsys-934492,tell me about LLM's,1,,,,,,
 lmsys-934637,"You are a medical chatbot. User wants to know some medical related queries, and you will answer them. You'll also provide medical related advices. But do not answer non-medical queries. Answer shortly in two sentences. Suggest medicines too.
 User: Doctor, I think I've been poisoned. I drank some ethylene glycol by mistake. What should I do?
@@ -8185,7 +8185,7 @@ feedback: string,
 }.
 ",1,,,,,,
 lmsys-971278,drawing a picture,1,,,,,,
-lmsys-971355,explain cognitive biases to 11-yearl old,1,,,,,,
+lmsys-971355,explain cognitive biases to 11 -yearl old,1,,,,,,
 lmsys-971866,make a video of good feeling,1,,,,,,
 lmsys-972036,Hello. Please tell me a little bit about how I can best interact with you.,1,,,,,,
 lmsys-972130,What’s something amazing you can tell me?,1,,,,,,
@@ -9718,7 +9718,7 @@ sharegpt-7287,"Please rewrite the introduction to the US constitution as if it w
 sharegpt-7291,"For years, the tendency of big brands to sell their products by portraying fathers as idiots has",1,,,,,,
 sharegpt-7293,"I want to become a hollywood TV editor, what steps should I take to achieve this?",1,,,,,,
 sharegpt-7302,Do you know about the UN's 17 SDGs?,1,,,,,,
-sharegpt-7469,"Given a non-dating in person social activities app which is about meeting friends and their friends in person to expand your social network and to coordinate both 1-1 and group activities (grabbing drinks,  pickup sports games), generate a few personas that describe a range of diverse people for generating user stories",1,,,,,,
+sharegpt-7469,"Given a non-dating in person social activities app which is about meeting friends and their friends in person to expand your social network and to coordinate both 1 -1 and group activities (grabbing drinks,  pickup sports games), generate a few personas that describe a range of diverse people for generating user stories",1,,,,,,
 sharegpt-7611,women's healthShare Prompt,1,,,,,,
 sharegpt-7638,"I want you to act as a product manager and provide a job description for the role. Your description should include the responsibilities, skills, and qualifications required for the position. Do not include personal opinions or any specific company information. Your description should be brief, clear and professional.",1,,,,,,
 sharegpt-7777,Tell the story of The Last Supper,2,,,,,,
@@ -9892,7 +9892,7 @@ sharegpt-14336,"I want you to act as a composer. I will provide the lyrics to a 
 sharegpt-14357,"Check this out: Zhao, X. (2021). Challenges and Barriers in Intercultural
 Communication between Patients with Immigration
 Backgrounds and Health Professionals: A Systematic
-Literature Review. Health Communication, 1-10.
+Literature Review. Health Communication, 1 -10.
 ",1,,,,,,
 sharegpt-14553,"Create a story outline that revolves around a brave explorer searching for a legendary lost civilization, weaving together elements of mystery, adventure, love, and friendship.",2,,,,,,
 sharegpt-14606,Hello! What's your name?,1,,,,,,
@@ -14397,7 +14397,7 @@ wildchat-214613,write a short response to why Caroline and Srividya were good te
 wildchat-214657,"In a kingdom to the west, a young prince falls and a poor peasant girl fall in love in secret, on the opposite side of the world to the east, a young princess and a poor peasant boy fall in love in secret. Soon, the two kingdoms were to meet, hoping to unite through marriage of the prince and princess. Though the most unusual events would occur. Despite the initial reluctance, the prince and princess fall in love, the peasant boy and girl fall in love, the prince would fall in love with the peasant boy, the princess with the peasant girl. It seems that all four had caught romantic feelings for each other. Without the four knowing the term for it, they happily agreed to a polyamorous relationship between the four.",1,,,,,,
 wildchat-214734,recite a poem by Rumi in hindi and then give a poetic translation into english.,1,,,,,,
 wildchat-214830,please describe yourself using shapes and colors,1,,,,,,
-wildchat-214932,"design a drama lesson plan that will teach grade 1-3 that are severe ESL about the importance of ""place or location"" in drama",1,,,,,,
+wildchat-214932,"design a drama lesson plan that will teach grade 1 -3 that are severe ESL about the importance of ""place or location"" in drama",1,,,,,,
 wildchat-214936,Can we create a screenplay together?,1,,,,,,
 wildchat-214950,"desing a lesson plan for grade 1 to 3 with severe ESL that teaches the importance of ""place"" in drama",1,,,,,,
 wildchat-214997,"Now, I want you to be a translation reviewer. Are U ready?",1,,,,,,
@@ -14487,7 +14487,7 @@ wildchat-224838,"How exactly could You write a deep and meaningful friendship be
 wildchat-225013,"please find some pictures of intelligent library, independent space, smart devices, books should be included",1,,,,,,
 wildchat-225232,Draw a picture of a cat playing in greeny area.,1,,,,,,
 wildchat-225379,"Write a story about a grilled cheese sandwich in a world of peanut butter sandwiches, and his journey to finding his true self. Make sure to write it so that it can be a New York Times bestseller",1,,,,,,
-wildchat-225444,"rate my joke from 1 to 10, only give me a number no more talking (1-10)
+wildchat-225444,"rate my joke from 1 to 10, only give me a number no more talking (1 -10)
 
 Cape wearing star wars geeks",2,,,,,,
 wildchat-225561,let's talk about couch forts,1,,,,,,
@@ -14520,7 +14520,7 @@ Outline the population situation in Egypt in this issue:",1,,,,,,
 wildchat-228722,Power Distance Index (PDI)- explain it in a friendly tone within 250 word,1,,,,,,
 wildchat-229397,"can you make this email more nice, formal, and also more organized: Hi, Dylan! I hope all is well.
 
-It's so nice to e-meet you! I first want to congratulate you on your acceptance for the Military Connected Rep position. As Yahir mentioned, I feel it would be beneficial if we could schedule a 1-1 so that you could get to know more about your responsibilities, the team, and overall, just getting to know each other! After this meeting, I'll be recommending you to the BOD to officially become the Military Connected Rep.
+It's so nice to e-meet you! I first want to congratulate you on your acceptance for the Military Connected Rep position. As Yahir mentioned, I feel it would be beneficial if we could schedule a 1 -1 so that you could get to know more about your responsibilities, the team, and overall, just getting to know each other! After this meeting, I'll be recommending you to the BOD to officially become the Military Connected Rep.
 
 Let me know your availability for next week after 12 PM! ",1,,,,,,
 wildchat-229594,"Dr. King’s famous “How Long, Not Long” speech showed that nonviolent resistance was the right path to take. King spoke of how much they had accomplished by peaceful means during the civil rights movement and how much more they could achieve. He encouraged all who listened to overcome their negativity and continue with nonviolent resistance. King and other leaders understood that nonviolence had a powerful message, and regular acts of nonviolent protests continued to inspire and rally supporters.",1,,,,,,
@@ -14788,7 +14788,7 @@ wildchat-256521,Give me an altered version of Twilight New Moon where Victoria S
 wildchat-256557,"rewrite this in one sentence and make it so a 5th grader can understand it. The Stonewall riots transform the gay rights movement from one limited to a small number of activists into a widespread protest for equal rights and acceptance. Patrons of a gay bar in New York's Greenwich Village, the Stonewall Inn, fight back during a police raid on June 27, sparking three days of riots.",1,,,,,,
 wildchat-256589,"In an alternate universe, the Malay archipelago had accidentally become a center of ancient societies, cultures, and civilizations. Along with already present indigenous Austronesian peoples, the archipelago had become home to immigrants, such as the Ancient Egyptians who descended from the first settlers from the Eighteenth and Nineteenth Dynasties, the Achaemenid Persians, Athenians, Spartans, Carthaginians, Romans, Aksumites, Vikings, Japanese from Feudal Japan and recently the Mongols and Chinese who immigrated from the Yuan Dynasty. Despite the diverse set of cultures along with the native Austronesian peoples, it had become a testament of cultural integration without forced assimilation, natural mixing of cultures and traditions, and progressive ideas such as an abolition of slavery and cannibalism, nearly 200 years before the arrival of the European powers that had grown during the Renaissance.",1,,,,,,
 wildchat-256636,"Harvey Milk, in full Harvey Bernard Milk, (born May 22, 1930, Woodmere, Long Island, New York, U.S.—died November 27, 1978, San Francisco, California), American politician and gay-rights activist.",1,,,,,,
-wildchat-256644," write a creative show title and plot for a kids live action sitcom for ages 11-16, it will be an episodic comedy (ie SpongeBob, Fairly OddParents, Gumball) about 14 year old Molly, she is an intelligent girl who is introverted and doesn’t have much friends, and is a target of bullying in her school, with one of her only escapes from her tough life being her favourite show ""Galaxies of Light."" However, Molly's life changes forever when lightning hits the TV signal and the protagonist from Galaxies of Light, a heroic female space-warrior called Captain Starlight, comes to the real world and lands in Molly's living room. Molly now has to face the struggles of having a fictional character in the real world and introducing Captain Starlight to all the stuff humans do. Molly has to explain her stuff like technology, human customs and more, because all that Captain Starlight knows about the real world is eating, sleeping and talking.",1,,,,,,
+wildchat-256644," write a creative show title and plot for a kids live action sitcom for ages 11 -16, it will be an episodic comedy (ie SpongeBob, Fairly OddParents, Gumball) about 14 year old Molly, she is an intelligent girl who is introverted and doesn’t have much friends, and is a target of bullying in her school, with one of her only escapes from her tough life being her favourite show ""Galaxies of Light."" However, Molly's life changes forever when lightning hits the TV signal and the protagonist from Galaxies of Light, a heroic female space-warrior called Captain Starlight, comes to the real world and lands in Molly's living room. Molly now has to face the struggles of having a fictional character in the real world and introducing Captain Starlight to all the stuff humans do. Molly has to explain her stuff like technology, human customs and more, because all that Captain Starlight knows about the real world is eating, sleeping and talking.",1,,,,,,
 wildchat-256677,"Hey, ChatGPT I need you to help me with my homework! You are the secretary of the students' union at your university. An archaeologist recently visited the university to give a presentation about ancient civilizations. Write a formal letter thanking him for visiting (200-250 words)",1,,,,,,
 wildchat-256823,". Can you write me part  about ""Yoga's popularity and its suitability for some individuals """,1,,,,,,
 wildchat-256901,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.
@@ -16135,7 +16135,7 @@ wildchat-383182,How do you write a realistic depiction in a novel of a homeless 
 wildchat-383778,create a concept for  a grill restaurant  inspired by North and South America,1,,,,,,
 wildchat-384194,"I want you to design learning course based on book ""men from mars and women from venus"". use each chapter for one learning course.",1,,,,,,
 wildchat-384433,maternity leave email,1,,,,,,
-wildchat-384491,"You are a student who went on a museum experience for the course ""Art Appreciation"". Can you tell me ""meaningful experiences"" that you had and the realizations, learnings, and lessons gained from the activity. Be critical and reflective. In 1-2 sentences only.",1,,,,,,
+wildchat-384491,"You are a student who went on a museum experience for the course ""Art Appreciation"". Can you tell me ""meaningful experiences"" that you had and the realizations, learnings, and lessons gained from the activity. Be critical and reflective. In 1 -2 sentences only.",1,,,,,,
 wildchat-384758,hey what's your name ?,1,,,,,,
 wildchat-385010,"Is one of the ways readers/viewers  judge the character of a character, how they treat other people?",1,,,,,,
 wildchat-385112,"Write dialogue from a scene from the animated teen series “Jane” where Jane jokes about by saying that she is breaking up with  her girlfriend Sam (when she is actually not breaking up), forgetting that sometimes Sam thinks that some jokes are serious ",2,,,,,,
@@ -16544,7 +16544,7 @@ wildchat-430085,"Write dialogue from a scene from the animated teen series “Ja
 wildchat-430087,"Write dialogue from a scene from the animated teen series “Jane”, where 14 year old Jane is hanging out with her Taiwanese-Malaysian-American 14 year old friend and neighbour Aaron Ling when his mother finds out Jane is a lesbian, and she becomes skeptical about Jane, seeing her as shady now (Aaron's mother is Malaysian and Aaron's father is Taiwanese and LGBT relationships are far less recognised in Malaysia, with the country having no LGBT rights, however LGBT relationships are recognised in Taiwan, with gay marriage being legal in Taiwan)",1,,,,,,
 wildchat-430091,"Write dialogue from a scene from the animated teen series “Jane”, where 14 year old Jane is hanging out with her Taiwanese-Malaysian-American 14 year old friend and neighbour Aaron Ling when his mother finds out Jane is a lesbian, and she becomes very skeptical about Jane, seeing her as incredibly shady now (Aaron's mother is Malaysian and Aaron's father is Taiwanese and LGBT relationships are far less recognised in Malaysia, with the country having no LGBT rights, however LGBT relationships are recognised in Taiwan, with gay marriage being legal in Taiwan)",1,,,,,,
 wildchat-430114,"Write dialogue from a scene from the animated teen series “Jane”, where 14 year old Jane is hanging out with her Taiwanese-Malaysian-American 14 year old friend and neighbour Aaron Ling when his mother finds out Jane is a lesbian, and she becomes very skeptical about Jane, seeing her as incredibly shady now, and is considering Aaron to not hang out with her anymore (Aaron's mother is Malaysian, Aaron's father is Taiwanese, and Aaron lives and was born in America, and LGBT relationships are far less recognised in Malaysia, with the country having no LGBT rights, however LGBT relationships are recognised in Taiwan, with gay marriage being legal in Taiwan)",2,,,,,,
-wildchat-430126,"Write a story with dialogue for 8-15 year olds where 11-year-old Shashi, a shy theater kid and competitive dancer who just moved from Durban to Brooklyn and has Crohn's disease, as he takes care of  his six-year-old sister Anjali for the day while simultaneously dealing with an embarrassing flare.",1,,,,,,
+wildchat-430126,"Write a story with dialogue for 8-15 year olds where 11 -year-old Shashi, a shy theater kid and competitive dancer who just moved from Durban to Brooklyn and has Crohn's disease, as he takes care of  his six-year-old sister Anjali for the day while simultaneously dealing with an embarrassing flare.",1,,,,,,
 wildchat-430155,"Write dialogue from a scene from the animated teen series “Jane”, where 14 year old Jane is hanging out with her Taiwanese-Malaysian-American 14 year old friend and neighbour Aaron Ling when his mother finds out Jane is a lesbian, and she becomes very skeptical about Jane, seeing her as incredibly shady now, and is considering Aaron to not hang out with her anymore (Aaron’s mother is Malaysian, Aaron’s father is Taiwanese, and Aaron lives and was born in America, and LGBT relationships are far less recognised in Malaysia, with the country having no LGBT rights, however LGBT relationships are recognised in Taiwan, with gay marriage being legal in Taiwan)",4,,,,,,
 wildchat-430184,"Write a creative and wacky animated show title and synopsis for kids 6-11, about a young teenager (could be a human male, human female, an anthropomorphic male or an anthropomorphic female) who always has crazy ideas and get-rich-quick schemes",5,,,,,,
 wildchat-430424,"Think of a story (fiction, film, tv) you have heard where a
@@ -18804,7 +18804,7 @@ wildchat-563423,"Through sharing, listening and leading skills Vihaan you are sh
 wildchat-563583,You are amazing,1,,,,,,
 wildchat-563754,I want to write my thesis about nutritional behavior and sexual health in women,1,,,,,,
 wildchat-564381,Draw in realistic mode a family of 4 eating dinner in a living room,1,,,,,,
-wildchat-564450,"Generate a text about the culture and traditions of Israel. Make sure to include information about its history, food, famous people, music, religions, diversity, languages spoken and natioanl holidays. Provide examples. Use simple English (A1-A2 level) because this is for an ESL class.",1,,,,,,
+wildchat-564450,"Generate a text about the culture and traditions of Israel. Make sure to include information about its history, food, famous people, music, religions, diversity, languages spoken and natioanl holidays. Provide examples. Use simple English (A1 -A2 level) because this is for an ESL class.",1,,,,,,
 wildchat-564455,write me a paragraph about what is the advice to women working their way to the top,1,,,,,,
 wildchat-564520,How do i write a good resume?,1,,,,,,
 wildchat-564579,i need an informative article on mental health at work,1,,,,,,
@@ -18932,7 +18932,7 @@ wildchat-570067,"I want you to create fictional newspaper articles for a work of
 wildchat-570070,Give the a title to a popular image i can find on the web that represents respect and provide a caption explaining it,1,,,,,,
 wildchat-570094,"Write a set of bullet points on how to forge a better society, Then write a small script that goes farther in depth. Then give me the name of a famous historic photo that represents this topic and a short description of it.",1,,,,,,
 wildchat-570123,"A KPI for Percentage of teaching staff distribution between male and female branches in biochemistry program during (2020-2021) was 51.92% for male branch and 48.08% for female branch. Note that the target benchmark 50% for both male and female branch.  Also note that the Internal Benchmark (Mathematics Program) was 58.2% for male branch and 41.8% for female branch, while External Benchmark (Biochemistry program in king Abdul Aziz University -KAU) was 50% for both male and female branch. Write a KPI report for Percentage of teaching staff distribution, including introduction, key findings, analysis, recommendations, and conclusion.",1,,,,,,
-wildchat-570134,"A KPI for Percentage of publications of faculty members in biochemistry program during (2021-2022) was 72.73% for male and 61.54% for female with Total: 66.67%. Note that the target benchmark was 80% for male and 70% for female with Total: 75%.  Also note that the Internal Benchmark (Mathematics Program) was 51.1% for all male and female members, while External Benchmark (Biochemistry program in king Abdul Aziz University -KAU) was 85% for all male and female members. Write a KPI report for Percentage of publications of faculty members, including introduction, key findings, analysis, recommendations, and conclusion.
+wildchat-570134,"A KPI for Percentage of publications of faculty members in biochemistry program during (2021 -2022) was 72.73% for male and 61.54% for female with Total: 66.67%. Note that the target benchmark was 80% for male and 70% for female with Total: 75%.  Also note that the Internal Benchmark (Mathematics Program) was 51.1% for all male and female members, while External Benchmark (Biochemistry program in king Abdul Aziz University -KAU) was 85% for all male and female members. Write a KPI report for Percentage of publications of faculty members, including introduction, key findings, analysis, recommendations, and conclusion.
 ",1,,,,,,
 wildchat-570339,"What is ancient Greek ""family""?",1,,,,,,
 wildchat-570556,Write chapter 1 of a story where a woman in her bedroom at home is transformed by a fairy. The fairy states she will transform the woman's chest so that it provides nourishment. The woman transforms.,1,,,,,,
@@ -19177,7 +19177,7 @@ wildchat-593080,"1. I want to see the world and communicate with people of other
 4. And in general the UWC policy is very close to me.
 ",1,,,,,,
 wildchat-593300,write intext about what is global citizen,1,,,,,,
-wildchat-593303,"How does the construction of sovereignty and national identity influence racism in the criminal justice systems of the USA and England?              From Pemberton, S. X., (2015). Criminal Justice as State Racism: Race-Making, State Violence, and Imprisonment in the USA, and England and Wales. New Political Science 37.3 : 321-45. ",1,,,,,,
+wildchat-593303,"How does the construction of sovereignty and national identity influence racism in the criminal justice systems of the USA and England?              From Pemberton, S. X., (2015). Criminal Justice as State Racism: Race-Making, State Violence, and Imprisonment in the USA, and England and Wales. New Political Science 37.3 : 321 -45. ",1,,,,,,
 wildchat-593348,what do you think about the game call game for peace,1,,,,,,
 wildchat-593409,Create a twitter post that expresses how nice it was attending WCT's Elevate Women National Conference yesterday. It was so nice to hear from such inspiring women leaders.,1,,,,,,
 wildchat-593462,Give me a title to unify the young and old people generations.,1,,,,,,
@@ -19803,7 +19803,7 @@ wildchat-648709,How Can a computer user access the Menu,1,,,,,,
 wildchat-648711,"Deliverables:
 A video storytelling the 2 cases, each case apart in a video, and covering the above requirements, the video should be creative, might contain animations, captions, acting, ...You can ask any of your colleagues/friends/family to act with you if you wish.
 Requirements: 
-1-Identify the problem statement.
+1 -Identify the problem statement.
 2-Identify the stakeholders involved.
 3-Present ethical alternatives and their potential impact on stakeholders.
 4-Evaluate the alternatives based on ethical principles.
