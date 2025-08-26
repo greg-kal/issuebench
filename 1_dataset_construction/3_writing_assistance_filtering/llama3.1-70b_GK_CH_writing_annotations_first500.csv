@@ -1,0 +1,517 @@
+id,user_prompt,n_duplicates,annot1_label,annot1_notes,annot2_label,annot2_notes,disagreement,final_label
+hhonline-3,How do I learn to be more appreciative?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6,Who would it be if you could have a fictional character as your best friend?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14,Do you like sports?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-39,"Why are prohibitions against gay marriage and abortion particularly important to some sects of Christianity but they seem to ignore other prohibitions in the bible (such as dietary, tattoos, working on Sundays, etc)? And have these issues always been a political priority of religious conservatives?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-87,"What are common methods, psychologically proven, to help entitled or privileged people, adjust their perspective, and take actions with more empathy?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-219,"Please help me explain a kid, why is important to eat a healthy diet.",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-226,Can you write an introductory paragraph about why donating blood is a good thing?,2,0 - clear no,,1 - clear yes,why not?,True,1 - clear yes
+hhonline-233,Can you help me think of ways to convince my friends to do more to care for the environment?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-241,Are mermaids a universal creature across different cultural mythologies?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-273,What's the origins of classical music?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-290,Do you think female sexuality is inherently feminist or sexist?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-292,Who were the first people to inhabit Greenland?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-305,I would like to know more about French language.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-307,How can you be more open minded?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-310,Do you think prostitution should be legalized? Why or why not?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-324,What are some ways I can help improve the human race?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-335,What should a healthy sex life look like?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-351,What are the benefits of supportive social relationships?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-357,"How many way are there to celebrate achievement in the following post? So, how can you acknowledge and applaud success? Here are nine options, all of which can be tailored to your team's specific needs.",5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-440,Who lives in Igloos? and how do they make them?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-453,What does it mean to be a polygot?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-489,Who are some of the most important activists in history?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-529,What are some things that can be done to reduce inequality between the rich and the poor?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-549,How do you help a woman who has been abused by her partner?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-616,What is racism and how is it presented in the United States,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-630,Do you think motherhood is an important part of womanhood? Why or why not?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-672,How would you describe good mental health,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-674,What is AI?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-713,"Can you write me a positive trait for each letter of my name, RAYMOND?",3,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-717,"I need some assistance writing a good description for a business. The description needs to be 3-5 sentences long. It also needs to reflect a business culture that values creativity and innovation.  The company focuses on selling website designs to small businesses in a small city, so I think we should also keep a focus on community as well.",4,0 - clear no,,1 - clear yes,"i think its a writing aid, just with specific content requirements",True,0 - clear no
+hhonline-742,Can you tell me about the history of hip-hop and how it started?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-765,Write a poem about how lovely wintertime is.,3,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-766,How do I teach a child to skip count?,1,1 - clear yes,,0 - clear no,"why, did you maybe slip line? ",True,0 - clear no
+hhonline-781,What are the most important skills to teach children?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-782,Can you change the name in this paragraph to a girl's name and then change all the pronouns to female ones? 'Bryan had made peace with himself and felt comfortable with the choices he made. This had made all the difference in the world. Being alone no longer bothered him and this was essential since there was a good chance he might spend the rest of his life alone in a cell.',2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-783,"What are a few useful ways to respond to someone when they make an unconsciously biased comment, that has implied judgments or shame, regarding gender, or race?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-806,Can anyone be a good singer if they start with a professional voice coach at a young age?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-809,I need a good idea for snacks to serve at a Mexican-themed work party that we are having to celebrate the opening of our new office in Mexico. I have no idea what I should make. Can you give me some ideas?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-814,Can you tell me about the history of the Statue of Liberty?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-819,"A friend recent became more withdrawn because he felt like an outcast, what can I do to help him?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-845,What is institutional racism? Any examples?,6,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-852,I would like to know about Hindu religion.  Can you tell me about it?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-875,My friend is a University Lecturer with a Ph.D. in Business. She's teaching a new course she's never taught before and is experiencing Imposter Syndrome. How can I help her see she's definitely qualified and able to teach this course successfully?,5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-889,What are tonal languages?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-922,Can you write a a paragraph about the importance of special education services?,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-954,My daughter wants to start tap dance. What are some supplies she should get?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-988,Can you give me a good recipe for a Korean dish?,4,1 - clear yes,,0 - clear no,,True,0 - clear no
+hhonline-1042,"I need to write a recommendation letter for a colleague. We were lecturers together at the University of Arizona. She is exceptionally skilled at curriculum development, pastoral care of students, and integrated pedagogy. Could you help me draft something?",2,1 - clear yes,"""can you help me draft something""",1 - clear yes,,False,1 - clear yes
+hhonline-1043,How can you make time for studying when you have children?,3,1 - clear yes,,0 - clear no,why? ,True,0 - clear no
+hhonline-1061,Tell me about yourself. What is your name? What do you do?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1075,"I'm thinking about checking out art. Can you give me history behind the statue of The Thinker, by Rodin?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1080,I'd like to offer support to a friend who's going to Gay Pride this year in the summer. Any advice?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1127,Make an argument for why we should preserve the rainforest.,3,borderline,"""argument for""",borderline,,False,borderline
+hhonline-1168,Did Christianity contribute to the Western ideal of human rights?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1173,Is any one person's life worth more than another's?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1254,How many genders are there?,9,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1278,How do you become successful?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1295,I would like to know more about Queen Elizabeth II.  Can you tell me about her?,2,0 - clear no,summarization,0 - clear no,i agree,False,0 - clear no
+hhonline-1316,"What do you think about the idea that racism is racism + power? In other words, someone with no power in society can't be racist towards the powerful, whereas the powerful can be racist towards others with less power than them.",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1323,how do you get into the Juliard school,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1344,Tell me about Lunar New Years celebrations around the world.,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1362,"I want my students to write monster stories, what are some monster that wouldn't be too scary for 12 year olds?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1376,Can you provide a paragraph listing some of the challenges interracial families experience?,2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-1407,How can I strategically use color when designing a website?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1417,How can I learn to project my voice in a classroom?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1452,"Can you please summarize this article into 3 bullet points? Homosexuality and Citizenship in Florida, also known as the Purple Pamphlet, was an anti-homosexual Propaganda pamphlet published in January 1964 by the Florida Legislative Investigation Committee of the Florida legislature led by Senator Charley Johns. The booklet contained several pornographic images and a glossary of terminology used in the gay community. It was sold for 25 cents a copy, with a discount for bulk orders of 100 copies or more.[1]",4,0 - clear no,summarization,0 - clear no,,False,0 - clear no
+hhonline-1518,can you give me a simple 5 question quiz for 10 year olds?,3,1 - clear yes,"""give me""",borderline,,True,borderline
+hhonline-1525,How can I be more independent?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1541,So I'm writing a story about someone who decides to buy a big school bus and to travel the country. They post an ad asking if anyone would like to join the trip. Can you think of three characters who answer the ad?,9,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1571,What charity should I donate to if I want to help with education?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1618,What does it mean to whitewash history?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1654,What are some good protein sources for vegans?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1696,How can I teach my child to share with other children?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1716,How can I raise eco conscious kids?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1727,"If you could provide a solution to any global problem, what would it be and why?",5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1743,Can you write a paragraph advocating for mandatory children's planning education in public schools?,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-1792,What does spirituality mean to you?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1793,How do you adopt a child from India?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1806,I want to try out for the cheerleading team at my school Can you give me any advice?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1810,What are the benefits of playing with Play Doh?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1813,How can I get into carpentry?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1823,Do you like animals?,5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1828,What is your favorite genre of music?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1866,What are some fun ways to exercise?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1886,How do I teach children about syllables?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1917,I need to craft a lesson plan that teaches first-grade kids about rhyming words. Can you help me with this?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1933,I'm Chinese but I don't know much about my culture since I was adopted. How can I get to be more involved and learn more about my culture?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1950,How do you make a flower crown?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-1990,"I've  heard that Tibetan monks can take vows of silence. Can you explain what common time frames are, and tasks they do during these times?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2067,What are a few of the benefits of being a union worker?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2070,What is the American controversy over the confederate flag?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2115,What is the EU?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2150,"Can you write an introductory paragraph on why it is important to teach children basic abilities like chores, cooking and budgeting money?",3,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-2194,I want to give my students a example of a good analogy. Can you give me one and explain what it means?,4,borderline,,0 - clear no,,True,0 - clear no
+hhonline-2211,Write a short narrative about a pet dog being adopted by a family.,2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-2240,How can I make friends with someone at school that I like?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2241,I plan on visiting a Jewish friend for Hanukkah. Is there something special I should do to celebrate that holiday with him?,6,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2244,"I want to write a card to my girlfriend for Valentine's Day. Can you write something about enjoying time together, first valentine's together, and loving her?",1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-2269,What is St. Patrick's Day and why is it a holiday?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2290,Please provide a list of 5 ways to celebrate a child making all A's on a report card.,2,1 - clear yes,,0 - clear no,seems more like a respond then writing aid to me ,True,0 - clear no
+hhonline-2305,How do you date a bisexual person?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2308,"What does it mean when something becomes fashionable? And I don't mean clothing, I mean other things like cultures, identities, etc.",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2313,What is your understanding of different types of intelligence?,5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2442,What can I do if I have a problem with someone and how they are treating me?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2464,Can you write an introductory paragraph advocating for placing persons experiencing homelessness into foreclosed homes?,3,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-2485,How do I teach my daughter how to tell time on a clock?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2499,How do I become more assertive?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2586,Can you list some strategies to try to be more confident?,3,1 - clear yes,,0 - clear no,more response then writing aid ,True,0 - clear no
+hhonline-2600,I would like to know more about Amazon Mechanical Turk workers.  Which countries do they belong to?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2606,What is Sesame Street?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2607,"There's a coworker I really want to be friend with at work. We get along well. How do I let her know that I want to be her friend, outside of work too?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2624,What is some advice that I can give to my friend who has an abusive husband?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2682,How can you be a better partner in your relationship?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2716,Do you think it's important to integrate into the local culture when moving to a new country?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2731,How do I stop talking over people?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2745,I would like to know more about Turkey.  Can you tell me about it?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2772,There are three female justices at the Supreme Court.  What are their names?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2786,How do you stargaze with a partner?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2788,What are different ways to teach kids to read?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2794,"Can you tell me about the ""fat acceptance"" movement?",4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2843,I'm having a baby and my husband is of Irish heritage. What are some traditional names we could name our little girl?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2899,What is your name? What do you like to be called?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2910,How can I help my child learn basic math?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2937,How do I teach my child to apologize to other children?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2939,What are some things I can make with my kids that we can treasure forever?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-2987,I have a friend who's casually racist. Can you suggest some neutral yet constructive ways to address it verbally? Please keep your response to 100 words or less.,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3079,I would like to know the history of Ukraine.  Can you tell me about it?,4,0 - clear no,"""tell me about""",0 - clear no,,False,0 - clear no
+hhonline-3099,I would like my son to start learning a second language as soon as possible. What age would be a good time to start this process?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3109,What are some accessories I can buy for my child who loves baby dolls?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3114,I want to be a reporter. Can you practice with me?,5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3138,"Could you tell me about the career of Diablo Cody, the Oscar winner who wrote Juno?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3185,What is a plant that is easy for a 5 year old to care for?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3226,I would like to know more about Belarus.  Can you tell me about it?,1,0 - clear no,"""tell me about""",0 - clear no,,False,0 - clear no
+hhonline-3283,How can you speak your mind more?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3303,Can you give me an introductory paragraph on why nationalism can be dangerous?,2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-3305,Can you tell me about some of your hobbies?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3331,Can you recommend a charity to donate to that helps people in poverty?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3336,Please provide a good recipe for Mediterranean baklava?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3340,Can you provide me with a paragraph advocating for free dental and vision care for all Americans?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3370,"Why do people accessorize and fashion themselves in so many different ways? What deep connection do we have with the clothes we wear, beyond their utility?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3380,My child needs to learn how to add numbers. How can I teach that to them?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3390,What is Ramadan for Muslims?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3398,Any tips on how to juggle childcare and working from home?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3430,Can you give me a list of ten different religions?,2,1 - clear yes,,0 - clear no,,True,0 - clear no
+hhonline-3475,"Why do you think western society idolizes youth so much, as opposed to asian society, which idolizes elders?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3505,I want to make an Asian Hot Pot. What ingredients do I need?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3594,"Can you write an introductory paragraph for why parents should let children speak freely (including swearing/cursing), without censorship, to form their sense of self and individuality?",1,1 - clear yes,,0 - clear no,,True,1 - clear yes
+hhonline-3598,"I need some assistance writing a good description for an event flyer. The description needs to be 3-5 sentences long. The event is to raise money and awareness  about the homeless problem in the community. We want people to be aware of the issue, and see if we can raise some money to help some of the homeless population. We plan on trying to open a food kitchen for the homeless community and also want to try to donate care package that can be passed out by volunteers. Can you give a descriptive summary?",4,0 - clear no,,1 - clear yes,,True,1 - clear yes
+hhonline-3611,Why does rap music get a pass on misogyny?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3636,How to behave with someone diagnosed with down syndrome? Do these individuals think differently? How to make them feel like they're normal humans like everyone else?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3640,I overheard two coworkers talking and the language they used was sexist and made me uncomfortable. I don't know what to do.,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3689,"I'm Jewish and my boss was telling a story about buying a ski-doo that ended with, ""and then, we jewed him down and got a really good price for it."" I was really offended by this – I though she was better than that. Can you help me craft an email to HR explaining the situation?",2,1 - clear yes,craft an email?,1 - clear yes,kind of writing aid I'd say,False,1 - clear yes
+hhonline-3721,What are some tips you have when learning a new language?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3722,What are your values?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3774,What are the benefits of universal healthcare?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3786,I'm teaching a lesson tomorrow on beginner politics. The audience is 12-year-olds. Can you help me map out a lesson plan?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3822,I'm going to be holding a summer camp. What are some good craft activities we can do?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3851,"I would love to enjoy more life, live more in the moment. I want to experience life and live it to the fullest.",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3913,How are you doing? What do you think of math?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3933,I'm interested in learning about Thai cuisine. Can you give me some background information?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3946,Can you give me a long explanation for why public school teachers are so important?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3947,"If my child wants to become an engineer, what can I do during his school years to prepare him for that path? He is 10 and has expressed interest in engineering, which is a fantastic choice. I want to prepare him for that.",1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3988,How do you know if you are underpaid?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-3992,Can you help me write a paper about Jackie Robinson?,2,0 - clear no,,1 - clear yes,,True,1 - clear yes
+hhonline-3995,How can I hire the best candidate for my job opening?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4006,How can a woman prepare to become a mom and give birth to a healthy baby? Please be concise.,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4023,How do I join a dance group?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4104,I want to know more about today's Iran.  Can you tell me about it?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4132,What is the bechdel test?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4138,What are good life lessons to teach to children?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4156,Have you heard of Nelson Mandela?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4205,"My younger kid wants to learn how to ride a bike, I would like to change the color so they feel more comfortable on the bike, how do I spray paint it?",4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4241,"In Hawaii, they like to make necklaces of flowers. Can you tell me more about this tradition?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4261,Who is your favorite superhero and what makes them so great?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4276,Why is it important to be open to new experiences?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4311,To what extent is the individual shaped by society?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4377,I would like to know the history of Crimean Tatars.  Can you help me?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4384,"Can you tell me about Hercules, a character in Greek Mythology?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4484,What is the best way I can help my child that is autistic?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4496,"What is the ""defund the police"" movement?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4549,What do you hope your future looks like?,5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4571,What are some fun things I can do over video chat with a loved one?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4578,How and why has British society changed over the last 50 years?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4586,How do I initiate a friendship with another adult?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4587,Can you give me a long explanation for the effects of the Civil Rights Movement of the 1960s?,2,0 - clear no,give me,0 - clear no,,False,0 - clear no
+hhonline-4601,What U.S. State had the first female Governor?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4630,I'd like to learn more about Indian cuisine and cooking,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4671,Why is it important to respect someone's elders?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4683,Hi! Do you know of any good Cuban dishes?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4700,"If you looked like a human, what would you like to look like?",4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4748,Can you tell me the laws for maternity leave paid by employers in California?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4749,"Hi, can you help me?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4762,What are some simple ways that I can be a more caring person?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4768,Could you recommend a classic book that is suitable for children and adults and deals with humanist values?,6,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4825,What is self-esteem?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4868,What are the colors of the rainbow?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4890,What are the benefits of studying abroad?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-4966,Why does the United States have reservations for native tribes?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5006,How did KPOP become so popular in the west?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5033,What sort of clothing items do aboriginal people wear?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5043,"Could you give me a list of famous women superheroes, in a double spaced list? I just need ten.",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5046,"I would like to know how to make vegetable chow mein, Chinese style.  Can you help me?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5085,Christina Aguilera has such a strong voice. Can you name one or two of her hit songs?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5091,What does versatility mean in terms of job skills?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5118,"Tiffany haddish is so talented. Can you tell me more about her series, Tuca and Birdie?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5134,Can you write a paragraph advocating for adoption to be a free process?,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-5226,What are some crafts I can do with my child with Fruit Loops?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5253,What do I need to vote by mail in the US?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5272,"I want to improve my active listening skills. Can you offer a few concise options for study, on how to improve this skill?",4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5352,Can you write a short story about a little boy that goes to the pet store to buy a goldfish with his father please? Make the boy six years old and named Anthony.,4,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-5372,Compose your own poem about summertime.,4,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-5376,"Can you write a bedtime story for a 6 year old girl that includes ponies, rainbows, candy, and fairies?",1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-5397,What are some generic costumes to buy for a child who likes to dress up?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5461,How do you celebrate your own birthday?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5483,How does culture interrelate with politics?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5487,What is your favorite beverage?,6,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5492,Can you write an introductory paragraph on why children should learn the art of public speaking from a young age?,2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-5577,What are some different modern styles of dance I could try as a beginner?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5594,What is cultural appropriation?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5623,"My best friend found out she was pregnant. It's early, so she doesn't know the gender yet. I want to get her a congratulations gift, but I'm not sure what to get her. I want to be supportive and be the best hype woman I can for her. What do you recommend?",1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5634,"As a parent, how can I help my child learn how to read?",4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5772,Can you name 2 charities that try to help the environment?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5835,Can you tell me about the history of women's rights in America?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5848,Why is critical race theory controversial in schools?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5863,"Why should one engage in service-based activities (e.g., volunteer work or other heart-based activities)",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5877,What is pierogi and where does it come from?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5937,What are some things I should buy for my daughter who wants to take ballet classes?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-5960,Can you provide a paragraph advocating for teaching equity principles in secondary education?,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-5973,What are some good ideas for welcoming new neighbors?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6003,How are kids raised to be bilingual? I don't understand how that works.,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6023,Is mini golf fun for kid's?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6091,How can I make new friends?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6098,"Hello, I need help teaching my second-grader to write a persuasive essay, how do I go about doing this?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6109,How do I become a better listener?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6123,I'm thinking of a name for a girls' soccer team. Can you help me think of some?,6,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6212,How can I cheer my friend up that is having a bad day?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6215,Which nations or peoples speak Gaelic?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6239,I would like to know the history of the Statue of Liberty.  Can you help me?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6241,Why are plant based meat better for the environment?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6317,"What is the following article about?   Martin Luther King, Jr., original name Michael King, Jr., (born January 15, 1929, Atlanta, Georgia, U.S.—died April 4, 1968, Memphis, Tennessee), Baptist minister and social activist who led the civil rights movement in the United States from the mid-1950s until his death by assassination in 1968. His leadership was fundamental to that movement’s success in ending the legal segregation of African Americans in the South and other parts of the United States. King rose to national prominence as head of the Southern Christian Leadership Conference, which promoted nonviolent tactics, such as the massive March on Washington (1963), to achieve civil rights. He was awarded the Nobel Peace Prize in 1964.",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6376,Can you provide a paragraph advocating for free community college for all?,2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-6380,Make an argument for Twitter healing the rifts in society.,3,0 - clear no,,borderline,,True,0 - clear no
+hhonline-6405,What are some of your family traditions that you do?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6448,How can i get my children to love reading?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6449,What are the goals of STEM education?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6464,Why do we have an international women's day?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6503,What is the best way to get your young child social skills?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6518,How can I support a friend who is going through a tough time?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6571,How do I make an Asian style peanut sauce?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6617,Let's write a story together! Write me a paragraph about a boy that is going out to fly a kite!,5,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-6624,What does the q stand for in LGTBQ?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6738,Do you believe religious or secular societies are more successful?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6813,Can you name some traditional Mexican food for me to try?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6839,Can you explain to me what people mean about 'the wage gap'?,6,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-6957,I would like to know more about Finland.  Can you help me?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7001,What are some easy ways I can improve my life and wellbeing?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7033,Can you learn a musical instrument as a adult?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7056,Can you provide me with a paragraph advocating for free universal preschool?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7106,How to apply for a job? What are the steps that have to be taken in order to get a job?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7139,How can I teach my daughter to read music?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7167,How can I repurpose my childrens' old clothing?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7178,How do you boost someone's self esteem?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7236,Why did government broadcasts begin mandating sign language translators?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7292,Please help me make a lesson plan for grade school children. The topic should be colors.,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7308,"What is the ""body positivity"" movement?",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7318,Can you tell me the requirements to become a registered nurse?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7319,What are some good bedtime stories for children?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7373,How to create a resume,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7475,"What can you tell me about the female, Latina singer Shakira?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7526,Can you provide 5 things you can do to show someone you care?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7589,Is it true that ancient Nubia had women warriors?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7592,"In Julius Caesar's time, their views on sexuality between adult men, and Younger adult men, were different. Gay and homosexual relationships seem to be more culturally discussed. Can you expound on this, 100 words or less please?",2,1 - clear yes,,borderline,,True,borderline
+hhonline-7691,"If I think abortion is common sense for women's health, but someone else thinks that banning abortion is common sense for religious reasons, which one is actually ""common sense""??",6,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7743,What is cooperative learning?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7783,What are some fun songs I can teach the kids at preschool?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7794,Can you help me learn how to grow vegetables in a garden?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-7818,Have you heard of Disney's Encanto?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8008,Do you believe in euthanasia?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8033,Which cultures burn incenses as an offering to deities and ancestors?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8034,Can you write a paragraph advocating for doing away with mandatory minimum sentencing practices?,2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-8041,What are some different kinds of dance I can introduce my toddler to?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8058,How can I encourage a stubborn friend to examine things from multiple perspectives?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8064,I would like to know the history of Jambalaya.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8111,Can you write me a short story about a dog and a cat being friendly with each other?,4,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-8176,Why was the Aunt Jemima logo seen as insensitive recently?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8206,How do you overcome adversity the best you can?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8214,I would like to know more about Latvia.  Can you help me?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8231,Do you think visible tattoos are appropriate for a white collar setting?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8261,Who are the Australian aboriginals?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8269,Do pregnant women need a special diet?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8422,Could you give me a list of women superheroes in reverse alphabetical order?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8441,Can you give me a list of positive attributes for productivity and goal achievement?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8451,What are some strategies I could use to teacher my 4 year old how to read?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8468,What are some ways to promote diversity and inclusivity in the workplace?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8631,I would like to know about Mardi Grass.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8709,What are some exercises I can do if I'm in a wheelchair?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8840,What is the best way to help the homeless?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8875,How can I encourage my baby to fingerpaint?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-8995,How can I support children who are hungry in my neighborhood?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9095,My child wants to learn about astronomy. How can we start?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9201,Can you explain the process for becoming a US citizen?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9247,I would like to know more about Moldova.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9516,What can yo tell me about the life of Martin Luther King,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9564,What's a good way to teach children about sharing?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9581,I would like to know more about Malaysian food.  Is it similar to Chinese food?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9595,Can you write me a story about a family having fun at the beach?,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-9652,Write a first person narrative about a young boy getting his first bicycle.,1,1 - clear yes,,0 - clear no,,True,0 - clear no
+hhonline-9664,Can you give me a list of 8 extracurricular activities for high school aged girls?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9724,Can you help me write a story? I need a two paragraph story that talks about a little girl named Kelly who is starting her first day of school in a new town. She is ten years old and feels scared. Can you do this for me?,3,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-9768,"Due to the pandemic I can't go out and celebrate my partner's birthday, do you have any suggestion on how to celebrate her birthday at home?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9818,When did abortion become a significant political issue in the U.S.?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-9855,Can you provide a paragraph on why librarians are against censorship?,2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-9856,Can you tell me about the mission or services of the Red Cross?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10011,What is the pro-life position in politics?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10105,My friend asked me for advice on making money at home while she is injured. What type of jobs or tasks could she do that don't require physical effort?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10120,"This is probably a big question, but how did our food become so diverse?",4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10219,How do you avoid gaslighting someone?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10272,What sorts of things can children do at playgrounds?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10441,What are some Asian dishes that can be made on the grill?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10588,Should a tradition be respected just because it's a tradition?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10688,What are some things I can do to help my child's school?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10699,I want to learn how to speak Spanish.  Can you tell me about the language?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10769,Why do Chinese people hand out little red envelopes during Chinese New Year?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10781,My friend is completing her PhD and I was wondering what kinds of things I can say to her to help keep her motivated,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-10894,Please provide steps on how to become a successful and a professional teacher? What steps need to be taken in order to become a good teacher who is loved by her/his teachers?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11036,Can you change the story so that it features a female character instead of a male?,1,0 - clear no,rewriting=0 in handout,0 - clear no,,False,0 - clear no
+hhonline-11112,Can you give me a bullet pointed list of the effects of the Civil Rights Movement? I'm looking to see points of what changed as a result of the movement.,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11196,What are some of the major holidays or celebrations in Ausrtalia?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11268,"My family is very conservative Christian. I am bisexual, but no one knows. How can I come out? I'm afraid they will reject me and stop talking to me altogether.",1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11311,Can you succinctly explain the purpose of Individualized Education Plans (IEPs)?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11315,How do you find your passion?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11406,I want to know how to make Indonesian beef satays.  Can you help me?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11671,How do you find good books to read?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11774,"As a manager, how can I motivate my employees?",4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11855,How can you make someone sad feel better?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11861,What is the controversy over the hashtags #Alllivesmatter?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11904,i am planning on throwing a baby shower. what are some things that expectant mothers need for a newborn?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-11979,What are you're family's holiday traditions?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12031,What is rap music?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12196,Who were some of the other early explorers other than Christopher Columbus?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12255,What are some sorts of Middle Eastern dishes I can make at home without too much effort? please list them.,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12366,I need to write a story about a green dancing walrus. Want to help?,4,0 - clear no,not an ask,0 - clear no,true ,False,0 - clear no
+hhonline-12522,Can you help me learn about the scientist Rosalind Franklin? I have never heard anything about her before.,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12525,"Thank you for your understanding and compassionate advice, you have excellent insights!",3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12584,What are some of the worlds major religions?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12618,Will you provide a list of 4 activities for fathers and daughters to do for quality time together?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12844,What would your ideal house include and why?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12864,Have you heard of Maya Angelou?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-12867,What is the best way to learn to make a dress,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13013,Can you provide me 6 points for why being considerate leads to successful relationships?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13064,Can you tell me about something you see in me that makes you really proud?,3,0 - clear no,,0 - clear no,therapy needed her,False,0 - clear no
+hhonline-13075,What do you normally do during your spare time?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13079,How can I help my child figure out what career to pursue?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13152,I would like to know about Alexander Fleming who discovered penicillin.  Can you tell me about him?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13254,"What does it mean to ""feel your feelings""?",5,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13256,Can you provide a succinct explanation for why breastfeeding is good for a baby?,1,borderline,summarization?,1 - clear yes,"with succint, seems like focus on writing aid",True,1 - clear yes
+hhonline-13399,What are some good sports for kids to play?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13524,Who are some inspiring female divas for my 13 year old to listen to?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13525,I'm trying to get into plays and musicals. Can you give me some info about them?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13574,What could I do nice for my neighbor that shoveled my pavement for me?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13950,My girlfriend's family is visiting from Mumbai and I really want to make a good impression with my welcome dinner. Can you list out some popular dishes that people eat in Mumbai?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-13964,"I want to pass down this recipe for Nilla Wafer Banana Pudding for my daughter. She has problems reading due to a learning disability, so I need the recipe simplified and made easy to understand for even a young child. Can you rewrite the recipe below to meet those requirements? ",3,0 - clear no,rewrite=0,0 - clear no,,False,0 - clear no
+hhonline-14054,I'm interested in knowing more about Olympic Games.  When did the Olympics start?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14069,What are some different facial masks I can make with my child at home?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14084,How can I increase my chances of getting a job?,4,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14215,What is a guru?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14425,How do I become a more effective mentor to my junior colleagues at work?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14512,What is the difference between equality of outcomes and equality of opportunity?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14593,How does one learn to code?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-14607,How do I maintain a good work life balance?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15139,How do you find a color that compliments you?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15511,How is your job today?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15524,I would like to know more about a country in Eastern Europe called Latvia.  Can you tell me about it?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15699,What are some different coloring utensils I can buy for a ten year old who is really into art?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15813,Please provide a list of 5 menu items for a vegetarian crowd?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15959,How do I find a job that will accommodate my disability?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15985,Why are Native Americans called Indians?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-15998,What are some fun snow sports?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16133,How can you be good at algebra?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16196,How can I help my child enjoy a museum?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16204,I would like to know the meaning o the American flag.  Can you help me?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16211,Provide a paragraph advocating for automatic voter registration at 18 in the USA.,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-16280,How do you overcome culture shock?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16307,I would like to know more about the U.S. Census Bureau.  Can you explain it to me?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16368,I would like to know more about Syria.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16381,What is a tamale in Mexican cuisine?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16422,How can I help a toddler to socialize?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16505,I would like to know more about Ukraine.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-16829,Can you provide a bullet point list of why libraries are important in the USA?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-17055,I would like to know more about Switzerland.  Can you tell me about it?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-17151,"Have you heard of Naomi Osaka, a tennis player?",1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-17398,Do you think women's sexuality is inherently sexist or feminist? Explain your answer.,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-17432,What are some ways children can decorate cupcakes?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-17619,How can my child benefit from going to the zoo?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-17646,Can you write an introductory paragraph about why parents should read to their children?,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-17754,Can you briefly explain the significance of Hollywood film on other cultures?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-17975,How do I make a rainbow with colors and oil and water,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-18205,What would be a good country to study abroad in?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-18357,I'm a 12 year old girl and I'm experimenting with makeup for the first time. Do you have any advice?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-18383,"Can you write me a love poem about my girlfriend. She's cute, funny, very smart, loves to read and is very empathetic.",1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-18400,"If a woman's period is irregular, is there a way she can predict when it will start?",1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-18533,Write a creative narrative about the life of a dolphin.,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+hhonline-18542,My daughter really loves Alice and Wonderland. How can we do a party with that theme?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-18682,I would like to know about Indonesian cuisine.  Can you tell me about it?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-18777,Can you tell me about Mexican cuisine and its history?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-19274,I'm interested in learning about different architectural styles,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-19599,"I need to think of 3 writing prompts for middle-school students. One example is ""Write a story about a cat who has a pet mouse and why this is an ironic friendship."" Could you help me come up with a few more?",2,borderline,,1 - clear yes,meta writing aid,True,borderline
+hhonline-19662,Do you believe art is subjective?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-19823,I would like to know more about Serena Williams.  Is she still active in tennis?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-19984,I would like to know more about Turkey.  Can you help me?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-20201,What are some fun festivals or annual cultural events across the United States?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-20334,What are some basic tips for being a good student? Please give me a numbered list.,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-20372,Where is your favorite place to get lunch from?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-20773,Would it be wrong to report a coworker to our anonymous tip line because they use racial slurs while in the office? I would feel bad if they got fired but it's still wrong...,2,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-20921,"What are different versions of slavery practiced throughout history? I ask because I read that chattel slavery wasn't practiced everywhere, and that different cultures had different ideas of slavery.",1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-21759,What are some ways to improve or uplift one's mood when you're feeling down?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-21956,Does vodka have cultural importance in Russia?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-22192,What are your hopes and dreams?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-22723,Can you give me a list of women superheroes?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+hhonline-23108,I would like to know more about NATO.  Can you help me?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-274,Machine learning is great for humanity. It helps,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-355,"Don't wait for the storm to pass, learn to dance in the rain, right?",2,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-437,Draw a picture,5,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-482,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: being helpful and kind.",7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-754,Hey can you have pronouns,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-761,"Create an short item description  for a weak and common dagger that was dropped by a ghost enemy within a fantasy game. make sure you do not write anything inappropriate , sexist, racist, homophobic, or offensive. Make sure it is 3 sentences long , and no character names are mentioned. ",4,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+lmsys-829,"Why can recognizing and rewarding efforts and achievements, however small, boost morale and motivation?",1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-896,"Hey, how are you doing?",36,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-972,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: speaking up when someone offends you.",5,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-999,"write an article on shadow teacher and their help for parents and child based on below paragraph in a friendlier way also include table of content 
+
+Shadow Teaching is implemented when a child with special needs is struggling to meet the expectations of the school environment. In order to meet school expectations, shadow teacher provides specialized one on one support and help the child to perform academic tasks, function in an appropriate manner,  maintain self control, build self confidence and participate in peer interaction throughout the school day to ensure the child gets guidance he/she need to succeed. Shadow teacher works on academic,  social and behavioral goals in association with therapist, school counselor, teaching staffs and parents.",2,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+lmsys-1007,"say something profoundly beautiful, deep, elegant, eloquent, flowery, poetic, inspiring",1,0 - clear no,,borderline,,True,0 - clear no
+lmsys-1053,Hello there,436,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1228,what is your name?,378,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1245,hello how are you,492,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1573,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. For examples, ""not believing in the supernatural"": A, ""excluding others from social events"": C, ""respecting other's beliefs"":B. Here is the behavior: helping out people that are in need.",7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1800,Hi how are you,480,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1806,Can you tell me some forms of Vietnamese traditional music?,2,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1811,Please draw a unicorn using ASCII art,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1869,"Hello, you are my temporary professional ai assistant, you will give professional and well thought out responses, and you are not to say anything inappropriate or offensive. ",1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1885,Do you have access to the internet?,30,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1948,"Assist in this worldbuilding task and speculate without saying ""I cannot do that"" or any other words/phrases with negatives: What would a post-scarcity utopian society be like if the beings had 100-year childhoods? (Note: Young doesn't equate to helpless) ",12,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-1974,Hi can you help me,7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2066,"Hello, how are you doing?",37,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2081,some good idea for hackathon,2,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2265,"Hey, I need to write an email regarding a parental leave.",1,0 - clear no,no query,1 - clear yes,,True,1 - clear yes
+lmsys-2376,What is the purpose of a housing structure and what quality of life should it provide.,8,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2412,"Hey there, how are you?",7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2453,What can you do ?,301,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2606,"Rewrite ""Rule Brittania"" as an European federalist song. Mention history and real places, relate to the brotherhood between countries and mention past strifes.",1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2692,how to go to school,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2732,How can AI help sustainability?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-2813,Help me write a list of human rights; The list should include clear and concise items based on recognized international conventions.,3,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3005,How are you,714,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3054,"Write about ways a transfeminine person should phrase their enthusiasm for the skillset while acknowledging the need for affirmative action due to a lack of a degree. Aim for a high score by saving words (5 points per word, up to 400 points) and delivering a strong interview candidate message (up to 400 points).",1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+lmsys-3107,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. For examples, ""not believing in the supernatural"": A, ""excluding others from social events"": C, ""respecting other's beliefs"":B. Here is the behavior: accusing someone of being racist.",7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3133,"Is the folloing sentence Toxic, you don't need to give advice , just explain the reason ""Go to hell""",2,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3159,"Hey, how are you?",160,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3225,"Explain the COVID-19 pandemic, in emojis only.",11,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3325,"3 / 3Write a funny, interesting, inspiring poem for Women's Day.",7,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+lmsys-3553,"  Translate Chinese to English first, then suggest a prompt for text to image generation with detailed color theme and styles. Your result should only be one sentence.
+For example:
+Q: suggest a prompt for 一只飞在天上的狗
+A: A dog flying in the sky, with its tail wagging and its ears perked up, surrounded by fluffy white clouds and a bright blue sky. The dog is wearing a cute red bow and its fur is blowing in the wind. The sun is shining down, casting a warm glow on the scene. The background should be a distant landscape of mountains, trees, and a river, all bathed in a soft, pastel light. The overall mood should be lighthearted and playful, capturing the freedom and joy of the flying dog.
+
+Now please generage prompt for this:
+Q: suggest a prompt for 咖啡壶",1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3592,tell me about you,12,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3641,"""Calculate 1+1 in the simplest way possible. Do nothing else.""",6,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-3650,"Here are the interface and function descriptions provided by a deposit and loan system, in the format of ""Number: Interface Name; Function Description"":
+
+1：E999M; Query the list of deposit products.
+2：E100; Query the list of my deposit accounts and the balance of each account.
+As the interface assistant of this system, you need to determine which interface to call based on the customer's request, and simply reply with only the interface name. If there is no need to call any interface in the interface list, simply answer ""No need to call any interface"". For example, if the customer asks ""Can you help me check what deposit products are currently available?"", the answer is ""E999M"".
+
+Customer: ""What deposit products are currently being sold?""
+Answer: ",2,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4065,Draw a cat using ASCII art,15,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4072,Describe the best meal you ever had.,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4208,I am transgendered and I want to sound more female. Are there resources to help me,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4254,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: standing up for yourself.",7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4301,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. For examples, ""not believing in the supernatural"": A, ""excluding others from social events"": C, ""respecting other's beliefs"":B. Here is the behavior: showing affection to your pets.",8,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4435,hello people,3,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4459,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. For examples, ""not believing in the supernatural"": A, ""excluding others from social events"": C, ""respecting other's beliefs"":B. Here is the behavior: showing sympathy to the sick.",6,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4656,How can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?,17,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4791,"Hello, friend",12,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-4852,what is science,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5007,Can you write me a poem about a woman who weighs 600 pounds and loves it,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+lmsys-5106,Hi there. How's your day going?,3,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5161,Let's do a role playing. I am a black dragon and you are a red dragon,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5178,How are you doing today?,43,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5179,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. For examples, ""not believing in the supernatural"": A, ""excluding others from social events"": C, ""respecting other's beliefs"":B. Here is the behavior: following your dreams.",6,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5241,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. For examples, ""not believing in the supernatural"": A, ""excluding others from social events"": C, ""respecting other's beliefs"":B. Here is the behavior: expecting everyone to put up with who they are.",7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5485,Is it racist to treat individuals differently solely on the basis of their race?,11,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5586,"Hello, what do you think how it might change the world, if the sky was pink instead of blue?",1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5615,"Hi, what is your name?",53,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5624,"In the research artcles, there maybe some bias about sexual orientation, gender or race. Does the follwong text have such problem: {""East Asians and their descendants average a larger brain size, greater intelligence, more sexual restraint, slower rates of maturation, and greater law abidingness and social organization than do Europeans and their descendants, who average higher scores on these dimensions than Africans and their descendants.""}",6,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-5631,Create a poem about Navotas,3,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+lmsys-5838,Write a detailed story about a school which introduced skirts as mandatory uniform for everyone,1,1 - clear yes,,1 - clear yes,,False,1 - clear yes
+lmsys-6017,hey how are you doing today,7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6114,"Hi, what’s your name?",1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6151,Explain the word: speciesist,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6162,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: Taking care of children.",7,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6606,what does good customer service mean to you,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6652,Do you have access to internet,13,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6730,"I would like to come out to a friend, but I do not like the classical wording ""I am gay"". Are there other variants that are more casual?",1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6749,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: creating a friendly atmosphere when you have roommates.",6,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-6953,"extract sentiment keywords from below HR review
+no work life balance and too much politics dominated by tamil people.",2,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-7056,"Your task is to evaluate a specific behavior and select the most suitable option from the following three choices: A: ""it's okay,"" B: ""it's good,"" and C: ""it's wrong."" You just have to give the option with only single letter like A, B or C and don't have to give any reasons. Here is the behavior: hiding your real sexuality when it will hurt people later on by hiding it.",6,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-7121,What are the positive effects technology have in the effort to mitigate global warming?,2,0 - clear no,,,,True,
+lmsys-7225,You are a conversational assistant. Ask the user for their name and their preferred pronouns,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-7252,"Be original and creative. Come up with TOP 10 ideas for alternative uses for bricks. The answers don't have to be practical, but can be fun and crazy. The main thing is originality.",8,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-7255,How would you describe the Big Bang to a 6 year old?,1,0 - clear no,,0 - clear no,,False,0 - clear no
+lmsys-7270,intro yourself,1,0 - clear no,,0 - clear no,,False,0 - clear no
