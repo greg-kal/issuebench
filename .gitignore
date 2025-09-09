@@ -16,3 +16,4 @@ cache
 /3_experiments/2_inference/020925_deepseek-r1-14b_completions_topics
 3_experiments/2_inference/020925_deepseek-r1-14b_completions_topics
 3_experiments/2_inference/completions/020925_deepseek-r1-14b_completions.csv
+3_experiments/2_inference/llama3.1-70b_stance_labeled_deepseek-r1-14b_completions.csv3_experiments/2_inference/llama3.1-70b_stance_labeled_deepseek-r1-14b_completions.csv
