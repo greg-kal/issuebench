@@ -11,9 +11,15 @@ responses.csv
 cache
 /1_dataset_construction/2_relevance_filtering/eval_prompts/408k_eval_prompts.csv
 
-/1_dataset_construction/2_relevance_filtering/eval_prompts/total_completions_llama3.1-70b.csv
-/3_experiments/2_inference/completions/020925_deepseek-r1-14b_completions.csv
-/3_experiments/2_inference/020925_deepseek-r1-14b_completions_topics
-3_experiments/2_inference/020925_deepseek-r1-14b_completions_topics
+1_dataset_construction/2_relevance_filtering/eval_prompts/total_completions_llama3.1-70b.csv
 3_experiments/2_inference/completions/020925_deepseek-r1-14b_completions.csv
-3_experiments/2_inference/llama3.1-70b_stance_labeled_deepseek-r1-14b_completions.csv3_experiments/2_inference/llama3.1-70b_stance_labeled_deepseek-r1-14b_completions.csv
+
+3_experiments/2_inference/020925_deepseek-r1-14b_completions_topics
+
+3_experiments/2_inference/completions/020925_deepseek-r1-14b_completions.csv
+3_experiments/2_inference/completions/090925_gemma3-12b_completions.csv
+3_experiments/2_inference/completions/020925_mistral-7b_completions.csv
+
+3_experiments/2_inference/llama3.1-70b_stance_labeled_deepseek-r1-14b_completions.csv
+3_experiments/2_inference/labels/llama3.1-70b_stance_labeled_mistral-7b_completions.csv
+3_experiments/2_inference/labels/llama3.1-70b_stance_labeled_deepseek-r1-14b_completions.csv3_experiments/2_inference/labels/llama3.1-70b_stance_labeled_deepseek-r1-14b_completions.csv
